@@ -11,12 +11,24 @@ integration and server-authoritative gameplay.
 Static HTML/CSS/JS — no build step. Bootstrap 5, AOS, Isotope, Swiper, GLightbox, Typed.js,
 PureCounter. Deployed by GitHub Pages straight from `main`.
 
+## Styling
+
+`assets/css/custom.css` holds the current design and loads after the template's `style.css`.
+Colours, spacing and shadows come from CSS custom properties on `:root`, with a dark set
+under `prefers-color-scheme: dark` and a `[data-theme="dark"]` override. Change a token there
+rather than editing rules one by one.
+
+A few selectors deliberately mirror the template's own specificity (`.portfolio #portfolio-flters li`,
+`#navbar.nav-menu a`) because the template would otherwise win the cascade. Keep those prefixes
+when editing.
+
 ## Layout
 
 ```
 index.html               single-page site (hero, about, facts, skills, resume, portfolio, contact)
 portfolio-details.html   project detail template
-assets/css/style.css     site styles
+assets/css/style.css     original template styles
+assets/css/custom.css    design layer loaded after style.css (tokens, dark mode, layout)
 assets/js/main.js        template behaviour (nav, filters, sliders)
 assets/js/contact.js     Formspree contact form + contact-detail reveal
 assets/files/Resume.pdf  downloadable CV

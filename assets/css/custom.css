@@ -1,0 +1,1152 @@
+/**
+* Premium design layer.
+* Loaded after style.css and overrides the MyResume template look while keeping
+* its markup and vendor scripts (AOS, Isotope, GLightbox, Swiper, Typed) intact.
+*/
+
+/*--------------------------------------------------------------
+# Tokens
+--------------------------------------------------------------*/
+:root {
+  --ink: #0b1220;
+  --ink-2: #1a2333;
+  --body: #47536b;
+  --muted: #626d85;
+  --line: #e4e8f0;
+  --surface: #ffffff;
+  --surface-2: #f6f8fc;
+  --page: #ffffff;
+
+  --accent: #4f46e5;
+  --accent-2: #0ea5e9;
+  --accent-soft: rgba(79, 70, 229, 0.1);
+  --gradient: linear-gradient(115deg, #4f46e5 0%, #0ea5e9 100%);
+
+  --shadow-sm: 0 1px 2px rgba(11, 18, 32, 0.06), 0 2px 8px rgba(11, 18, 32, 0.04);
+  --shadow-md: 0 4px 12px rgba(11, 18, 32, 0.07), 0 12px 32px rgba(11, 18, 32, 0.06);
+  --shadow-lg: 0 8px 24px rgba(11, 18, 32, 0.1), 0 24px 64px rgba(11, 18, 32, 0.1);
+
+  --radius: 14px;
+  --radius-lg: 20px;
+  --ease: cubic-bezier(0.22, 1, 0.36, 1);
+
+  /* Hero scrim. Tokenised because it must flip with the theme, or light-mode
+     veils end up behind dark-mode text. */
+  --hero-scrim:
+    radial-gradient(120% 90% at 8% 40%, rgba(255, 255, 255, 0.97) 0%, rgba(255, 255, 255, 0.9) 42%, rgba(255, 255, 255, 0.55) 72%, rgba(255, 255, 255, 0.3) 100%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.65) 0%, rgba(246, 248, 252, 0.8) 100%);
+  --hero-scrim-center:
+    radial-gradient(120% 80% at 50% 35%, rgba(255, 255, 255, 0.96) 0%, rgba(255, 255, 255, 0.88) 55%, rgba(255, 255, 255, 0.6) 100%),
+    linear-gradient(180deg, rgba(255, 255, 255, 0.6) 0%, rgba(246, 248, 252, 0.88) 100%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ink: #f1f5f9;
+    --ink-2: #e2e8f0;
+    --body: #a6b1c6;
+    --muted: #8b97ad;
+    --line: #26303f;
+    --surface: #131b27;
+    --surface-2: #0e151f;
+    --page: #0a0f17;
+
+    --accent: #818cf8;
+    --accent-2: #38bdf8;
+    --accent-soft: rgba(129, 140, 248, 0.16);
+    --gradient: linear-gradient(115deg, #818cf8 0%, #38bdf8 100%);
+
+    --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+    --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.45);
+    --shadow-lg: 0 12px 40px rgba(0, 0, 0, 0.55);
+
+    --hero-scrim:
+      radial-gradient(120% 90% at 8% 40%, rgba(10, 15, 23, 0.96) 0%, rgba(10, 15, 23, 0.9) 42%, rgba(10, 15, 23, 0.72) 72%, rgba(10, 15, 23, 0.55) 100%),
+      linear-gradient(180deg, rgba(10, 15, 23, 0.6) 0%, rgba(10, 15, 23, 0.9) 100%);
+    --hero-scrim-center:
+      radial-gradient(120% 80% at 50% 35%, rgba(10, 15, 23, 0.94) 0%, rgba(10, 15, 23, 0.88) 55%, rgba(10, 15, 23, 0.72) 100%),
+      linear-gradient(180deg, rgba(10, 15, 23, 0.65) 0%, rgba(10, 15, 23, 0.92) 100%);
+  }
+}
+
+:root[data-theme="dark"] {
+  --ink: #f1f5f9;
+  --ink-2: #e2e8f0;
+  --body: #a6b1c6;
+  --muted: #8b97ad;
+  --line: #26303f;
+  --surface: #131b27;
+  --surface-2: #0e151f;
+  --page: #0a0f17;
+
+  --accent: #818cf8;
+  --accent-2: #38bdf8;
+  --accent-soft: rgba(129, 140, 248, 0.16);
+  --gradient: linear-gradient(115deg, #818cf8 0%, #38bdf8 100%);
+
+  --hero-scrim:
+    radial-gradient(120% 90% at 8% 40%, rgba(10, 15, 23, 0.96) 0%, rgba(10, 15, 23, 0.9) 42%, rgba(10, 15, 23, 0.72) 72%, rgba(10, 15, 23, 0.55) 100%),
+    linear-gradient(180deg, rgba(10, 15, 23, 0.6) 0%, rgba(10, 15, 23, 0.9) 100%);
+  --hero-scrim-center:
+    radial-gradient(120% 80% at 50% 35%, rgba(10, 15, 23, 0.94) 0%, rgba(10, 15, 23, 0.88) 55%, rgba(10, 15, 23, 0.72) 100%),
+    linear-gradient(180deg, rgba(10, 15, 23, 0.65) 0%, rgba(10, 15, 23, 0.92) 100%);
+}
+
+/*--------------------------------------------------------------
+# Base
+--------------------------------------------------------------*/
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color: var(--body);
+  background: var(--page);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", system-ui, sans-serif;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--accent-2);
+}
+
+::selection {
+  background: var(--accent);
+  color: #fff;
+}
+
+:where(a, button, input, textarea, [tabindex]):focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/*--------------------------------------------------------------
+# Buttons
+--------------------------------------------------------------*/
+.btn-solid,
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 9px;
+  padding: 13px 26px;
+  border-radius: 999px;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 1;
+  white-space: nowrap;
+  cursor: pointer;
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease), background 0.25s var(--ease);
+}
+
+.btn-solid {
+  background: var(--gradient);
+  color: #fff;
+  border: 0;
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.32);
+}
+
+.btn-solid:hover {
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(79, 70, 229, 0.42);
+}
+
+.btn-ghost {
+  background: transparent;
+  color: var(--ink);
+  border: 1.5px solid var(--line);
+  backdrop-filter: blur(8px);
+}
+
+.btn-ghost:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-resume {
+  margin-top: 22px;
+}
+
+/*--------------------------------------------------------------
+# Side navigation rail
+--------------------------------------------------------------*/
+#header {
+  background: color-mix(in srgb, var(--surface) 82%, transparent);
+  backdrop-filter: saturate(180%) blur(16px);
+  border-right: 1px solid var(--line);
+  transition: transform 0.35s var(--ease);
+}
+
+/* Only the palette is overridden here. The template owns the rail's sizing and
+   its hover-to-expand behaviour, so those rules are deliberately left alone. */
+#navbar.nav-menu a,
+#navbar.nav-menu a:focus {
+  color: var(--muted);
+  background: transparent;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  transition: color 0.25s var(--ease), background 0.25s var(--ease), width 0.3s var(--ease);
+}
+
+#navbar.nav-menu a span,
+#navbar.nav-menu a:focus span {
+  color: inherit;
+}
+
+#navbar.nav-menu a:hover,
+#navbar.nav-menu li:hover > a,
+#navbar.nav-menu .active,
+#navbar.nav-menu .active:focus {
+  color: #fff;
+  background: var(--gradient);
+  box-shadow: 0 4px 14px rgba(79, 70, 229, 0.3);
+}
+
+#navbar.nav-menu a:hover span,
+#navbar.nav-menu li:hover > a span,
+#navbar.nav-menu .active span,
+#navbar.nav-menu .active:focus span {
+  color: #fff;
+}
+
+.mobile-nav-toggle {
+  position: fixed;
+  top: 16px;
+  right: 16px;
+  z-index: 9999;
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  font-size: 22px;
+  color: var(--ink);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-md);
+  cursor: pointer;
+}
+
+/*--------------------------------------------------------------
+# Hero
+--------------------------------------------------------------*/
+#hero {
+  width: 100%;
+  min-height: 100svh;
+  height: auto;
+  padding: 100px 0 90px;
+  background: url("../img/NewReadyOne.jpg") center right / cover no-repeat;
+  position: relative;
+  isolation: isolate;
+}
+
+/* Readable scrim. The raw photo left the headline at roughly 1.5:1 contrast. */
+#hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: var(--hero-scrim);
+}
+
+/* Accent bloom, so the empty right side does not read as dead space. */
+#hero::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: -10%;
+  right: -5%;
+  width: min(60vw, 620px);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(79, 70, 229, 0.16) 0%, rgba(14, 165, 233, 0.08) 45%, transparent 70%);
+  filter: blur(18px);
+  pointer-events: none;
+}
+
+#hero .container {
+  max-width: 1180px;
+  padding-inline: clamp(20px, 5vw, 40px);
+}
+
+#hero .hero-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 9px;
+  margin: 0 0 22px;
+  padding: 7px 16px 7px 12px;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--surface) 75%, transparent);
+  border: 1px solid var(--line);
+  backdrop-filter: blur(10px);
+  color: var(--body);
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 500;
+  box-shadow: var(--shadow-sm);
+}
+
+.hero-status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #22c55e;
+  box-shadow: 0 0 0 4px rgba(34, 197, 94, 0.18);
+  animation: hero-pulse 2.4s ease-in-out infinite;
+}
+
+@keyframes hero-pulse {
+  50% {
+    box-shadow: 0 0 0 7px rgba(34, 197, 94, 0.06);
+  }
+}
+
+#hero h1 {
+  margin: 0;
+  font-size: clamp(2.6rem, 8vw, 5rem);
+  font-weight: 700;
+  line-height: 1.02;
+  letter-spacing: -0.035em;
+  color: var(--ink);
+}
+
+#hero .hero-role {
+  margin: 14px 0 0;
+  font-family: "Poppins", sans-serif;
+  font-size: clamp(1.15rem, 3.4vw, 1.9rem);
+  font-weight: 500;
+  line-height: 1.3;
+  color: var(--ink-2);
+}
+
+#hero .hero-role .typed {
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  letter-spacing: -0.01em;
+}
+
+/* The typed cursor cannot inherit the gradient clip, so colour it directly. */
+#hero .hero-role .typed-cursor {
+  color: var(--accent);
+  -webkit-text-fill-color: var(--accent);
+}
+
+#hero .hero-summary {
+  max-width: 54ch;
+  margin: 20px 0 0;
+  font-size: clamp(0.98rem, 2vw, 1.09rem);
+  line-height: 1.75;
+  color: var(--body);
+}
+
+.hero-highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: clamp(18px, 5vw, 44px);
+  margin: 32px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.hero-highlights li {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.hero-highlights strong {
+  font-family: "Poppins", sans-serif;
+  font-size: clamp(1.5rem, 4vw, 2rem);
+  font-weight: 700;
+  line-height: 1;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hero-highlights span {
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 36px;
+}
+
+#hero .social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 34px;
+}
+
+#hero .social-links a {
+  display: grid;
+  place-items: center;
+  width: 44px;
+  height: 44px;
+  margin: 0;
+  border-radius: 50%;
+  font-size: 19px;
+  color: var(--body);
+  background: color-mix(in srgb, var(--surface) 72%, transparent);
+  border: 1px solid var(--line);
+  backdrop-filter: blur(10px);
+  transition: transform 0.25s var(--ease), color 0.25s var(--ease), border-color 0.25s var(--ease);
+}
+
+#hero .social-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  transform: translateY(-3px);
+}
+
+.hero-scroll {
+  position: absolute;
+  left: 50%;
+  bottom: 26px;
+  translate: -50% 0;
+  display: grid;
+  place-items: start center;
+  width: 26px;
+  height: 42px;
+  padding-top: 8px;
+  border: 2px solid color-mix(in srgb, var(--body) 40%, transparent);
+  border-radius: 999px;
+}
+
+.hero-scroll span {
+  width: 4px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--accent);
+  animation: hero-scroll 1.9s ease-in-out infinite;
+}
+
+@keyframes hero-scroll {
+  0% {
+    opacity: 0;
+    translate: 0 0;
+  }
+
+  35% {
+    opacity: 1;
+  }
+
+  100% {
+    opacity: 0;
+    translate: 0 14px;
+  }
+}
+
+@media (max-width: 991px) {
+  #hero {
+    text-align: center;
+    padding: 108px 0 96px;
+    background-position: center;
+  }
+
+  #hero::before {
+    background: var(--hero-scrim-center);
+  }
+
+  #hero .hero-summary {
+    margin-inline: auto;
+  }
+
+  #hero .hero-eyebrow,
+  .hero-actions,
+  .hero-highlights,
+  #hero .social-links {
+    justify-content: center;
+  }
+
+  .hero-highlights li {
+    align-items: center;
+  }
+}
+
+@media (max-width: 575px) {
+  .hero-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .hero-actions .btn-solid,
+  .hero-actions .btn-ghost {
+    width: 100%;
+  }
+
+  .hero-scroll {
+    display: none;
+  }
+}
+
+/*--------------------------------------------------------------
+# Sections
+--------------------------------------------------------------*/
+section {
+  padding: clamp(64px, 9vw, 108px) 0;
+  overflow: clip;
+}
+
+.section-bg {
+  background: var(--surface-2);
+}
+
+.section-title {
+  margin-bottom: clamp(34px, 5vw, 54px);
+  padding-bottom: 0;
+}
+
+.section-title h2 {
+  position: relative;
+  margin-bottom: 18px;
+  padding-bottom: 18px;
+  font-size: clamp(1.7rem, 5vw, 2.5rem);
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.section-title h2::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 58px;
+  height: 4px;
+  border-radius: 999px;
+  background: var(--gradient);
+  display: block;
+}
+
+.section-title h2::after {
+  display: none;
+}
+
+.section-title p {
+  max-width: 68ch;
+  margin: 0;
+  font-size: clamp(0.95rem, 2vw, 1.05rem);
+  line-height: 1.8;
+  color: var(--body);
+}
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.about .row > .col-lg-4 img {
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-lg);
+}
+
+.about .content h3 {
+  margin-bottom: 12px;
+  font-size: clamp(1.25rem, 3vw, 1.6rem);
+  font-weight: 700;
+}
+
+.about .content .fst-italic {
+  margin-bottom: 22px;
+  font-size: 1.02rem;
+  line-height: 1.8;
+  color: var(--body);
+}
+
+.about .content ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+.about .content ul li {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--line);
+  font-size: 15px;
+}
+
+.about .content ul li i {
+  color: var(--accent);
+  font-size: 15px;
+  line-height: 1;
+}
+
+.about .content ul li strong {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+/*--------------------------------------------------------------
+# Facts
+--------------------------------------------------------------*/
+.facts .count-box {
+  height: 100%;
+  padding: 30px 26px;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+}
+
+.facts .count-box:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-md);
+}
+
+.facts .count-box i {
+  display: grid;
+  place-items: center;
+  width: 48px;
+  height: 48px;
+  margin-bottom: 18px;
+  border-radius: 13px;
+  font-size: 23px;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.facts .count-box span {
+  display: block;
+  font-family: "Poppins", sans-serif;
+  font-size: clamp(2rem, 5vw, 2.7rem);
+  font-weight: 700;
+  line-height: 1;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.facts .count-box p {
+  margin: 10px 0 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  color: var(--muted);
+}
+
+/*--------------------------------------------------------------
+# Skills
+--------------------------------------------------------------*/
+.skills .progress {
+  height: auto;
+  margin-bottom: 24px;
+  background: none;
+  border-radius: 0;
+}
+
+.skills .progress .skill {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 0;
+  margin-bottom: 9px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  text-transform: none;
+  color: var(--ink);
+}
+
+.skills .progress .skill .val {
+  font-size: 13px;
+  font-weight: 600;
+  font-style: normal;
+  color: var(--muted);
+}
+
+.skills .progress-bar-wrap {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--line);
+  overflow: hidden;
+}
+
+.skills .progress-bar {
+  height: 8px;
+  border-radius: 999px;
+  background: var(--gradient);
+  transition: width 1.1s var(--ease);
+}
+
+/*--------------------------------------------------------------
+# Resume
+--------------------------------------------------------------*/
+.resume .resume-title {
+  margin: 34px 0 20px;
+  padding: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: none;
+}
+
+.resume .col-lg-6 > .resume-title:first-child {
+  margin-top: 0;
+}
+
+.resume .resume-item {
+  position: relative;
+  padding: 0 0 26px 30px;
+  margin: 0 0 12px;
+  border-left: 2px solid var(--line);
+}
+
+.resume .resume-item::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--page);
+  border: 2px solid var(--accent);
+}
+
+.resume .resume-item:last-child {
+  border-left-color: transparent;
+  padding-bottom: 0;
+}
+
+.resume .resume-item h4 {
+  margin-bottom: 8px;
+  font-size: 1.02rem;
+  font-weight: 700;
+  line-height: 1.45;
+  text-transform: none;
+  color: var(--ink);
+}
+
+.resume .resume-item h5 {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 5px 13px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.resume .resume-item p em,
+.resume .resume-item > p {
+  font-size: 14px;
+  color: var(--muted);
+}
+
+.resume .resume-item ul {
+  padding-left: 18px;
+  margin-bottom: 0;
+}
+
+.resume .resume-item ul li {
+  margin-bottom: 9px;
+  padding-bottom: 0;
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: var(--body);
+}
+
+.resume .resume-item ul li::marker {
+  color: var(--accent);
+}
+
+/*--------------------------------------------------------------
+# Portfolio
+--------------------------------------------------------------*/
+.portfolio #portfolio-flters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+  max-width: 100%;
+  margin-bottom: 34px;
+  padding: 7px;
+  border-radius: 999px;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+.portfolio #portfolio-flters li {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 40px;
+  margin: 0;
+  padding: 9px 20px;
+  border-radius: 999px;
+  font-family: "Poppins", sans-serif;
+  font-size: 13.5px;
+  font-weight: 600;
+  line-height: 1;
+  text-transform: none;
+  color: var(--muted);
+  cursor: pointer;
+  transition: color 0.25s var(--ease), background 0.25s var(--ease);
+}
+
+/* Matches the template's own `.portfolio #portfolio-flters li…` specificity,
+   which otherwise keeps its blue on top of the gradient pill. */
+.portfolio #portfolio-flters li:hover {
+  color: var(--ink);
+}
+
+.portfolio #portfolio-flters li.filter-active {
+  color: #fff;
+  background: var(--gradient);
+}
+
+.portfolio .portfolio-item {
+  margin-bottom: 26px;
+}
+
+.portfolio .portfolio-wrap {
+  position: relative;
+  height: 100%;
+  overflow: hidden;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.35s var(--ease), box-shadow 0.35s var(--ease);
+}
+
+.portfolio .portfolio-wrap:hover {
+  transform: translateY(-6px);
+  box-shadow: var(--shadow-lg);
+}
+
+.portfolio .portfolio-wrap::before {
+  display: none;
+}
+
+.portfolio .portfolio-wrap img {
+  width: 100%;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  transition: scale 0.5s var(--ease);
+}
+
+.portfolio .portfolio-wrap:hover img {
+  scale: 1.05;
+}
+
+/* The template absolutely positions this block and only reveals it on hover.
+   Pin it under the image as an always-visible card body instead. */
+.portfolio .portfolio-wrap .portfolio-info {
+  position: static;
+  opacity: 1;
+  visibility: visible;
+  padding: 20px 22px 22px;
+  background: none;
+  text-align: left;
+}
+
+.portfolio .portfolio-wrap .portfolio-info h4 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ink);
+}
+
+.portfolio .portfolio-wrap .portfolio-info p {
+  margin: 4px 0 0;
+  padding: 0;
+  font-size: 13.5px;
+  font-style: normal;
+  color: var(--muted);
+}
+
+.portfolio .portfolio-wrap .portfolio-info .portfolio-tech {
+  margin-top: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: var(--accent);
+}
+
+.portfolio .portfolio-wrap .portfolio-links {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  left: auto;
+  bottom: auto;
+  display: flex;
+  gap: 8px;
+  opacity: 0;
+  text-align: right;
+  transition: opacity 0.3s var(--ease);
+}
+
+.portfolio .portfolio-wrap:hover .portfolio-links {
+  opacity: 1;
+}
+
+.portfolio .portfolio-wrap .portfolio-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  height: 34px;
+  padding: 0 13px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink);
+  background: color-mix(in srgb, var(--surface) 92%, transparent);
+  backdrop-filter: blur(8px);
+  box-shadow: var(--shadow-sm);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a:hover {
+  color: #fff;
+  background: var(--accent);
+}
+
+.portfolio .portfolio-wrap .portfolio-links a i {
+  font-size: 16px;
+}
+
+/* Touch devices have no hover, so the action pills stay visible there and the
+   filter chips grow to a comfortable tap target. */
+@media (hover: none) {
+  .portfolio .portfolio-wrap .portfolio-links {
+    opacity: 1;
+  }
+
+  .portfolio #portfolio-flters li {
+    min-height: 44px;
+  }
+
+  .portfolio .portfolio-wrap .portfolio-links a {
+    height: 40px;
+  }
+}
+
+/*--------------------------------------------------------------
+# Contact
+--------------------------------------------------------------*/
+.contact .info {
+  height: 100%;
+  padding: 30px;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+.contact .info > div {
+  position: relative;
+  padding: 0 0 0 58px;
+  margin-bottom: 26px;
+}
+
+.contact .info > div:last-child {
+  margin-bottom: 0;
+}
+
+.contact .info i {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  border-radius: 12px;
+  font-size: 19px;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.contact .info h4 {
+  margin-bottom: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--ink);
+}
+
+.contact .info p {
+  margin: 0;
+  font-size: 14.5px;
+  color: var(--body);
+  word-break: break-word;
+}
+
+.contact .info p a {
+  color: var(--body);
+}
+
+.contact .info p a:hover {
+  color: var(--accent);
+}
+
+.contact .contact-form {
+  padding: 30px;
+  border-radius: var(--radius-lg);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow-sm);
+}
+
+.contact .contact-form .form-control {
+  padding: 13px 16px;
+  border-radius: 12px;
+  font-size: 15px;
+  color: var(--ink);
+  background: var(--surface-2);
+  border: 1.5px solid var(--line);
+  box-shadow: none;
+  transition: border-color 0.2s var(--ease), background 0.2s var(--ease);
+}
+
+.contact .contact-form .form-control::placeholder {
+  color: var(--muted);
+}
+
+.contact .contact-form .form-control:focus {
+  background: var(--surface);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-soft);
+}
+
+.contact .contact-form button[type="submit"] {
+  padding: 13px 34px;
+  border: 0;
+  border-radius: 999px;
+  font-family: "Poppins", sans-serif;
+  font-size: 15px;
+  font-weight: 600;
+  color: #fff;
+  background: var(--gradient);
+  box-shadow: 0 6px 20px rgba(79, 70, 229, 0.32);
+  transition: transform 0.25s var(--ease), box-shadow 0.25s var(--ease);
+}
+
+.contact .contact-form button[type="submit"]:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 30px rgba(79, 70, 229, 0.42);
+}
+
+.contact .contact-form .error-message,
+.contact .contact-form .sent-message,
+.contact .contact-form .loading {
+  border-radius: 12px;
+  font-size: 14.5px;
+}
+
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+#footer {
+  padding: 48px 0;
+  color: var(--body);
+  background: var(--surface-2);
+  border-top: 1px solid var(--line);
+  text-align: center;
+}
+
+#footer h3 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: "Poppins", sans-serif;
+}
+
+#footer p {
+  max-width: 56ch;
+  margin: 0 auto 22px;
+  font-size: 14.5px;
+  line-height: 1.75;
+  font-style: normal;
+}
+
+#footer .social-links {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+#footer .social-links a {
+  display: grid;
+  place-items: center;
+  width: 42px;
+  height: 42px;
+  margin: 0;
+  border-radius: 50%;
+  font-size: 18px;
+  color: var(--body);
+  background: var(--surface);
+  border: 1px solid var(--line);
+  transition: transform 0.25s var(--ease), color 0.25s var(--ease), border-color 0.25s var(--ease);
+}
+
+#footer .social-links a:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--surface);
+  transform: translateY(-3px);
+}
+
+/*--------------------------------------------------------------
+# Reduced motion
+--------------------------------------------------------------*/
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
