@@ -130,9 +130,23 @@
    */
   let preloader = select('#preloader');
   if (preloader) {
-    window.addEventListener('load', () => {
-      preloader.remove()
-    });
+    // 'load' waits for every image on the page, which held the spinner on a
+    // blank screen for seconds. The markup and CSS are ready well before that,
+    // so drop the preloader once the document is parsed and let the lazy
+    // images arrive behind it.
+    const hidePreloader = () => {
+      preloader.classList.add('preloader-done');
+      setTimeout(() => preloader.remove(), 400);
+    };
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', hidePreloader, { once: true });
+    } else {
+      hidePreloader();
+    }
+
+    // Safety net: never leave the spinner up if something above throws.
+    window.addEventListener('load', hidePreloader, { once: true });
   }
 
   /**
@@ -215,8 +229,10 @@
   });
 
   /**
-   * Portfolio details slider
+   * Sliders. Only portfolio-details.html ships Swiper, so the home page can
+   * skip that bundle; guard the calls rather than assume it is loaded.
    */
+  if (typeof Swiper !== 'undefined') {
   new Swiper('.portfolio-details-slider', {
     speed: 400,
     loop: true,
@@ -231,9 +247,6 @@
     }
   });
 
-  /**
-   * Testimonials slider
-   */
   new Swiper('.testimonials-slider', {
     speed: 600,
     loop: true,
@@ -248,6 +261,7 @@
       clickable: true
     }
   });
+  }
 
   /**
    * Animation on scroll

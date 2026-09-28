@@ -38,6 +38,9 @@
     gtag('js', new Date());
     gtag('config', 'G-MVBN0T95GN');
   </script>
+  <!-- The hero background is the first thing on screen, so fetch it early. -->
+  <link rel="preload" as="image" href="assets/img/NewReadyOne.jpg" fetchpriority="high">
+
   <!-- Google Fonts -->
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -48,7 +51,6 @@
   <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
   <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
-  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet">
   <link href="assets/css/custom.css" rel="stylesheet">
@@ -122,7 +124,7 @@
         </div>
         <div class="row">
           <div class="col-lg-4">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="Vivek Pipaliya" loading="lazy" decoding="async">
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3>Unity Game Developer</h3>
@@ -423,7 +425,7 @@
           <!-- 18 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-18.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-18.jpg" class="img-fluid" alt="Ludo Bachpan game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Ludo Bachpan</h4>
                 <p>Ludo</p>
@@ -439,7 +441,7 @@
           <!-- 9 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="Match Trio game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Match Trio</h4>
                 <p>3D</p>
@@ -455,13 +457,13 @@
           <!-- 10 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-10.png" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-10.jpg" class="img-fluid" alt="LetsCard Best game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>LetsCard Best</h4>
                 <p>22+ games </p>
                 <p class="portfolio-tech">Unity &middot; C# &middot; socket.io &middot; Multiplayer</p>
                 <div class="portfolio-links">
-                  <a href="assets/img/portfolio/portfolio-details-10.png" class="portfolio-lightbox"><i
+                  <a href="assets/img/portfolio/portfolio-details-10.jpg" class="portfolio-lightbox"><i
                       class="bx bx-plus"></i></a>
                   <a
                     href="https://techinshower-my.sharepoint.com/:v:/g/personal/vivekpipaliya_techinshower_onmicrosoft_com/IQA2SDmGJU-CS7TyynIu_TCRAdppea3img1ChCu_t_w2UJI?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=I55UQ9">Play</a>
@@ -472,7 +474,7 @@
           <!-- 11 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-12.jpg" class="img-fluid" alt="BetSocio game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>BetSocio</h4>
                 <p>Horse Bet</p>
@@ -489,7 +491,7 @@
           <!-- 12 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="Kill The Monster game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Kill The Monster</h4>
                 <p>3D</p>
@@ -505,7 +507,7 @@
           <!-- 13 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-13.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-13.jpg" class="img-fluid" alt="Triple Fun game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Triple Fun</h4>
                 <p>Lottery</p>
@@ -522,7 +524,7 @@
           <!-- 14 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-14.jpg" class="img-fluid" alt="Nut and Bolt game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Nut & Bolt</h4>
                 <p>Wood Screw Puzzle</p>
@@ -538,7 +540,7 @@
           <!-- 15 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-15.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-15.jpg" class="img-fluid" alt="Dominoes Connect game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Dominoes Connect</h4>
                 <p> Puzzle Game</p>
@@ -555,7 +557,7 @@
           <!-- 16 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-16.jpg" class="img-fluid" alt="Join War 3D game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Join War 3D</h4>
                 <p> hypercasual</p>
@@ -571,7 +573,7 @@
           <!-- 17 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-17.jpg" class="img-fluid" alt="VR Bowling game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>VR Bowling</h4>
                 <p>Virtual reality</p>
@@ -588,7 +590,7 @@
           <!-- 19 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-19.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-19.jpg" class="img-fluid" alt="Connect Numbers 2248 game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Connect Numbers 2248</h4>
                 <p>Puzzle</p>
@@ -604,7 +606,7 @@
           <!-- 20 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-details-20.jpg" class="img-fluid" alt="Slot Game game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Slot Game</h4>
                 <p>Slot</p>
@@ -620,7 +622,7 @@
           <!-- 1 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="Fill Numbers game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Fill Numbers</h4>
                 <p>Hundred Board</p>
@@ -636,7 +638,7 @@
           <!-- 2 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="Teen and Tens game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Teen & Tens</h4>
                 <p>Montessori Game</p>
@@ -652,7 +654,7 @@
           <!-- 3 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="Onet Puzzle game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Onet Puzzle</h4>
                 <p>2D Puzzle</p>
@@ -668,7 +670,7 @@
           <!-- 4 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="Farm Land game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Farm Land</h4>
                 <p>Prototype</p>
@@ -684,7 +686,7 @@
           <!-- 5 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="Control Things game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Control Things</h4>
                 <p>Hyper Casual</p>
@@ -700,7 +702,7 @@
           <!-- 6 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-611.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-611.jpg" class="img-fluid" alt="Jackpot game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Jackpot</h4>
                 <p>Slot Game</p>
@@ -716,7 +718,7 @@
           <!-- 7 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="Sniper Shoot game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>Sniper Shoot</h4>
                 <p>Hyper Casual</p>
@@ -732,7 +734,7 @@
           <!-- 8 -->
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="More Money game screenshot" loading="lazy" decoding="async">
               <div class="portfolio-info">
                 <h4>More Money</h4>
                 <p>Hyper Casual</p>
@@ -1001,7 +1003,6 @@
       <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
       <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
       <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
-      <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
       <script src="assets/vendor/typed.js/typed.min.js"></script>
       <script src="assets/vendor/waypoints/noframework.waypoints.js"></script>
       <script src="assets/js/contact.js"></script>
