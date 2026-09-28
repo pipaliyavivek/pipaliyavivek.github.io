@@ -34,8 +34,12 @@ python -m http.server 8000
 
 Then open <http://localhost:8000>.
 
-## Contact form setup
+## Contact form
 
-The form posts to Formspree. Create a free form at <https://formspree.io>, then replace
-`YOUR_FORM_ID` in the `<form action>` in `index.html`. Until that is set, the form shows a
-configuration notice instead of silently failing.
+The form posts to [Formspree](https://formspree.io); submissions are handled in
+`assets/js/contact.js`. The endpoint lives in the `<form action>` in `index.html`, and
+messages arrive in the Formspree dashboard. Formspree's free tier caps monthly submissions,
+so check there if messages stop arriving.
+
+The first submission from a new deployment triggers a one-time confirmation email to the
+form owner.
