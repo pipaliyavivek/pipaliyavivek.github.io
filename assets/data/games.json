@@ -1,0 +1,838 @@
+[
+  {
+    "id": "com.poder.tenx.mathgame",
+    "name": "10x - Math Games",
+    "slug": "10x-math-games",
+    "icon": "https://play-lh.googleusercontent.com/HGREAFX_rL7HxMxJX5aIZ3z64D_q2PHCT4wceUYAMBoL-Y9pHZcePt5e36E_Lrfnm4Vra5hOVPIAWvwBkG95dA=s256",
+    "desc": "10x is a number logic board game. It's simple. Drag number blocks on the board to get total of 10 in any row or column and then you get scores! Features Number Puzzle： ● Easy to play, challenging to master – Number matching game ● Use magic hat when need help! ● Simple and cool interface ● Classic merge games and block games ● NO WIFI? NO PROBLEM – Enjoy block puzzle games anytime, anywhere! ● Easy to learn and play, and pleasurable game for all ages! 10x: Number Puzzle Game is a true brain puzzle game, if you ever love make hexa number, wood block puzzle, merge number puzzle, 2048 or similar ones, you will love get this number game. Enjoy a TENX puzzle game and challenge your brain! Tenx : Math Puzzle is an addictive relaxing number game.",
+    "short": "10x is a number logic board game. It's simple. Drag number blocks on the board to get total of 10 in any row or column and then you get scores! Features…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/XCtvYJMKUCrQay2Gdy48L9dY0kUsdIbkPYb4-7O5ejV49IxwDknA33vnV4zO5yvNG_owJztYxxw0w_M2TfjKAg=w526-h296",
+      "https://play-lh.googleusercontent.com/FdFxBte9VE7zPIAya_DJajuuSsSP_pf2Pr0MiEvbyG5f1zeSV7R9huB4wXUnKmUsVnGhHoflKeTWbcErEocx=w526-h296",
+      "https://play-lh.googleusercontent.com/kjfq2AqCw9ATTh-lxjTzYZS48p2TnWw5xo-0Cc7X-_fJYijAMTkFKr4UXx11itpgcCHNtD9_HnkT_PN8PTBsiQ=w526-h296",
+      "https://play-lh.googleusercontent.com/sG3-3zVm2ZJTr3aWYSFgBsv-EYfgU8J2GJvIYWOao2vyihwSq_NAH-suEMua-hRBcmvdlJIXoolH2rowlgkW=w526-h296",
+      "https://play-lh.googleusercontent.com/7eVnvDIGbx96a8yiXf9X3zIwuFYrBMV61g8bmYuknMlUAaLJsUbnRHeAZVAyyb4dfJA0VN6qCjFBIZYb4jbL=w526-h296",
+      "https://play-lh.googleusercontent.com/fIB1PgooH725q0rSfo46IwxsjYGddN7Y8qBSN7VeVYsuRUlmgF2L8rfvmzof4v4ClewDH-KaYYtffIIcbkc9mg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.tenx.mathgame"
+  },
+  {
+    "id": "com.sky.basket.hoop.stars.battle",
+    "name": "Basket Hoop - Stars Battle",
+    "slug": "basket-hoop-stars-battle",
+    "icon": "https://play-lh.googleusercontent.com/mIqF_h-WSFw4qO_YjV2aOIQUHJEskQn48xztpuRAgL3GdZfOTCdVLdeR4EKD5b5ihsRer4fSIuQeFKtiU85Y=s256",
+    "desc": "Get ready to take your game to the next level with Basketball Battle, the exciting sports game. Shoot hoops in 3 Point basketball contest! Your mission is simple: Throw the ball upper. Take it from above the basket and throw into the basket. It’s time to show off your basketball shooting skills! Each level comes with 3 stars you must complete first to advance to the next level. Hit the opponent to stop him/her throwing the ball into the basket. Basketball games offline, play anytime and anywhere. Basket Hoops delivers an immersive and exciting experience that will keep you fun. Train yourself anywhere and anytime with basketball legends games. Provides you the basketball battle experience. Take a deep breath and shoot for the hoop - just like in real life, feel like a professional basketball player, feel the pressure, feel the fun... and become a basketball star! Are you ready?",
+    "short": "Get ready to take your game to the next level with Basketball Battle, the exciting sports game. Shoot hoops in 3 Point basketball contest! Your mission is…",
+    "genre": "Sports",
+    "genres": [
+      "Sports"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/3HfMiek7jvcPHduINX7qlLiIpQG4rP0VE-z0FfKGZt01okKOndq2ppTeyTuk2XY39dOkabncmx2ms3o_yXnc=w526-h296",
+      "https://play-lh.googleusercontent.com/ptYv1bcTXBuMswDtwPtxOfl3GFrP5cRN5_fp7JegDvyYTr_cPiFjHVxWAwhhUMseOcuKW507A9QloRZU1Vt56qQ=w526-h296",
+      "https://play-lh.googleusercontent.com/CbKCtsrJKmQ9HvFJwEm9HSW5-vtpcR50d_79JiQ4v-xYwFUjtN0LB3ZfZLXUiLNvadXYICc2m28oHOEvOB8kdQ=w526-h296",
+      "https://play-lh.googleusercontent.com/Bjev6xgJxWc8AGa1wP3JZV72nG4mS5pkZSLD6ETMKycMzsrqeYQ4VQajCBvNL8-rHpd4cubpkr6hIF2z_YC0=w526-h296",
+      "https://play-lh.googleusercontent.com/5RYLRKahSAlWQ1TauCQPRFDB0Mcer93StpvkMUl_Dv00qlWgity0Avh1Oqie9BEIeruofu_9C-1poDY8VG-eLDA=w526-h296",
+      "https://play-lh.googleusercontent.com/0jYh_l8Sr8wP1dC48p5wV8p1koqxBACMQmNglCbhb4qzIZKMwMgxvFel_LHsC-eFu6H30bbl85VNo0lFqQX7bfs=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.sky.basket.hoop.stars.battle"
+  },
+  {
+    "id": "com.poder.business.board.game",
+    "name": "Board Dice Games - Business",
+    "slug": "board-dice-games-business",
+    "icon": "https://play-lh.googleusercontent.com/FlyrN9RRey8J-Y0qVed4gwJB4DBsRLdcRdalb4ir-sojvyMHhf8bfcR36Co4AsBbDS4e1dLmZKMjMre_9rnOsiI=s256",
+    "desc": "Fun Classic Board Games to play offline, Roll the Dice and be the Business Tycoon. Experience classic board game! Collect Properties, build Houses and Hotels, pull Chance Cards, and of course, earn that MONOPOLY Money! Play with business game in of buy and sell real estate properties. Earn more tokens as you go! Time for Business fun with Friends and Family! Wheel and deal as you build your fortune playing an exciting game of Business offline. Buy up whole neighborhoods, charge rent, and grow your empire. It's all about making deals and making money. But don't land in Jail! HOW TO PLAY Choose your player mode Classic Hasbro board game is a great game for 2 - 6 players. Put your landlord skills to the test against our challenging AI opponents and be a property tycoon in single player mode. Compete with friends and family. Play WIFI-free when you pass & play one device around a group of players. Build your property empire Roll the dice, take investment risks, bid for properties in auctions, make your way around the board and BUY or TRADING real estate, COLLECT rent, and DEVELOP houses, hotels, parking and lands to become a property tycoon. Players collect rent or fees from their opponents, with the goal being to drive them into bankruptcy. Money can also be gained or lost through Chance and Community Chest cards, and tax squares. But wait Players can end up in jail, which they cannot move from until they have met one of several conditions. There are other places on the board which can not be bought, but instead require the player to draw a card and perform the action on the card, pay taxes, collect income, or even go to jail. Any suggestions? We always love to hear from you for making this game better. Enjoy playing Business!!!",
+    "short": "Fun Classic Board Games to play offline, Roll the Dice and be the Business Tycoon. Experience classic board game! Collect Properties, build Houses and…",
+    "genre": "Board",
+    "genres": [
+      "Board"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/MuSHsAHPY6U67SbK54lGzoGlGKjevYjMKhvjHIaCLto2Y4lYDdEC74kLLFSI93MM644b6lAbXQEjWaW_2Fg81g=w526-h296",
+      "https://play-lh.googleusercontent.com/UTbYqGjdz-5QsQ_4VEzr1IFiklpCYyswazfpXnzJ2yIEfxwJAVYItrwcGlpRSNGmVUM2KXCBuNkGNULQyz05GQ=w526-h296",
+      "https://play-lh.googleusercontent.com/vIvxUMvn-qWUd4pHtB_rFNplbMSMg6n34VlRnzdCDbqVum2B8v8HV8Fu4eqdzyQlq498XiIlRKf5bMzpIDQ4xA=w526-h296",
+      "https://play-lh.googleusercontent.com/kfIquHxskHLNA2wgH344fyp3ShTStfDRYrZ3yOZ-tDZ1yTGm6ULqSCehhkCrOQraMHsrWJeyxCGMYLTS5SbOKB4=w526-h296",
+      "https://play-lh.googleusercontent.com/euSyfdrVrHjWI3Hnh18ZaSWvgBpu5LaIMR-Z3EYZp4z8ePuTyZbVnYGjFyaMzdDNc7SI6fEJpV5FRoWvvggd=w526-h296",
+      "https://play-lh.googleusercontent.com/Va8yZKwc9u3VuBcjeutbujgTFj0n78_WiJUc6bS0-XyI40LTjL0c5Ua8XXBtLxc2IlBB8TjjBKwZy1Ba-TXwwmg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.business.board.game"
+  },
+  {
+    "id": "com.poder.bowling.strike.game",
+    "name": "Bowling Game - Strike!",
+    "slug": "bowling-game-strike",
+    "icon": "https://play-lh.googleusercontent.com/hwAMGeWxhJV6D3e1MRUAWTtkKdq6zyToesPAw7qNPV17bkfbRFUGQfYEaN1yoiBghopanuT7pEiWZnpJ_oRQ=s256",
+    "desc": "The top simulation sports games, and bowl on every exciting 3D bowling alleys. Bowl against players around the world and become Bowling Master! Flick forward with your finger to throw the ball and knock down the pins. Swipe across the screen to add spin to the ball. The most exciting multiplayer bowling on your device. Easy-to-master controls. Realistic Physics and stunning 3D graphics. Multiplayer and quickplay. Each Player can choose their own ball. Download the fun game app and enjoy multiplayer matches or start your campaign journey.",
+    "short": "The top simulation sports games, and bowl on every exciting 3D bowling alleys. Bowl against players around the world and become Bowling Master! Flick…",
+    "genre": "Sports",
+    "genres": [
+      "Sports"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/EiESi8EBxnmb1_X1fxAHUqxj11iAhXbdNH1rAZvwpVl4NaYD7lczqoHrmJfqpjA9d8B4-aJXTfISx5p8RtDG9e8=w526-h296",
+      "https://play-lh.googleusercontent.com/zK8wqn7oQeWZbzRIv4s4Jzxt53taBXdQN70cMk-S-QqnV54NAU2_pPNvuIR23Xw_9qKaAs9biFRfnVZtBhaUD0g=w526-h296",
+      "https://play-lh.googleusercontent.com/_7wXFaUcRD1j2oa02U6h68RNMYPQMcD7qjCcaUAZBkXT5vSaZ8kc0YPmBbw2wbncalewhRo9apfe4Tb_my0pSQ=w526-h296",
+      "https://play-lh.googleusercontent.com/DZeX3VmJevxygHTm7tzMZW3EUiS94dx0Nydqup-648_oHmtYflI3yt-yfddI_i9ux2DabnZ4WwyTjN3uWmr7mA=w526-h296",
+      "https://play-lh.googleusercontent.com/qO_yWdDpvkA1ck9XJJr6gm9ExPDqQHhB9WbhSGlvs5nakksYplTNqW7Lb_WI8KS1ycL4NHwSF_dXX5bcPpJ4AQ4=w526-h296",
+      "https://play-lh.googleusercontent.com/ioFsDv2X7xcJFFWsdBrlJTjxXei1YcN6kxYRAgilfmXsrcvaYMkS6muk6a9I2VCT2-F0qqozr10SusTlnnMY=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.bowling.strike.game"
+  },
+  {
+    "id": "com.skyfall.car.crusher.slide.puzzle",
+    "name": "Car Crusher - Slide Puzzle",
+    "slug": "car-crusher-slide-puzzle",
+    "icon": "https://play-lh.googleusercontent.com/qKWoVg4b6J46Q-BwzvrqCKs8dj9AoLqCLHpflTMGcrt6c3Jie6_ia_8Mjft04WoN1cahBsw-RC7XqLojb6zDZQ=s256",
+    "desc": "Car Crusher 3D is a Fun and Addictive 3D Puzzle Game. Engage Your Intellect and Unlock Your Brain with Board Puzzles. With its unique blend of color-matching puzzles and sliding mechanics, Car Crusher offers a refreshing and engaging twist on classic puzzle blocks. Slide the cars to unpuzzle them. But the puzzle blocks will only go away according to their directions and colors, so you’ve got to approach this swiping game and brain teaser carefully! There are multiple difficulty levels of puzzles to solve. Help the color blocks escape! Features: - 1100+ puzzles - Simple to play, move the blocks. - No time limit, block puzzle anytime. - Game offline, no internet connection required. - This game is designed for both kids and adults. Unblock the car and that is how you play this epic free puzzle game. Not only to kill time but also to boost up your logic skills. This Slide Puzzle is similar to other popular IQ brain test puzzle games like Unblock Me, Rush Hour, Parking Jam, Traffic Jam but with a unique twist. Whether you're a fan of logic games, board games, escape games, unblock games, slide puzzle or just looking for a fun way to pass the time, car crusher is the game for you! Download now and embark on your car crushing adventure!",
+    "short": "Car Crusher 3D is a Fun and Addictive 3D Puzzle Game. Engage Your Intellect and Unlock Your Brain with Board Puzzles. With its unique blend of…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/tIUUxt-Yt9njPrE2SmrVk0-Iy0rw1_6k_2w09qFmWQwBncclAvl9gvLTWk-bwGgvs_aaAEP-7cko5k7zIzmwpw=w526-h296",
+      "https://play-lh.googleusercontent.com/GcfNfgWAGAGPcW1SQ8_LwYIGtdlFwrRBLDBDeibEgYcar0WxMKJ9NeHa3QsMTmjqQpweylmnrZ5yXTtj5vfYiA=w526-h296",
+      "https://play-lh.googleusercontent.com/cRvU_BG3x1KVyMYpS-hYoTIp_Q8DR28tlrxgXCp3NTx6C9lp6HbD4wlNyuru5gi9tbQ5CgKE1dqrQXr9ct1Mwg=w526-h296",
+      "https://play-lh.googleusercontent.com/xNPxCD4AjyjdPF7tlAG_LPaOMlo_Bu_UVBoPXYCqNvle4uvy83tCgiw08AK1ZU7AyzdNUwnakegMbOCMkPcV=w526-h296",
+      "https://play-lh.googleusercontent.com/et9QUjYjm2w0qBHj-jJkfZYgki7PwyjzVvoGZmrI09qtYL2iINOPj9wB4KZyuRh16gyCEOVBm44oRioIltqY=w526-h296",
+      "https://play-lh.googleusercontent.com/rjcZ0bH_RRjxzWDAR7hc8r1-CECoQzoTcDVv-h8aQDtVHkXpuR7GxTkRkW3Yv_5ETVLXCsyAZ5De4lAjqRuuJw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skyfall.car.crusher.slide.puzzle"
+  },
+  {
+    "id": "com.bhrigu.car.jam.color.match3",
+    "name": "Car Jam - Color Match 3 Games",
+    "slug": "car-jam-color-match-3-games",
+    "icon": "https://play-lh.googleusercontent.com/Aevbe4YOECBBWQ1LyBkUFQErO61VxchpNBpNSyQdAa7_obab_xd1RDAQr0XUAkUIyM9BOYoToLb6_bKyBIIGy4U=s256",
+    "desc": "Get ready for a thrilling and addictive experience with \"Car Jam 3D\", the ultimate Sorting Game that puts your skills to the test in a world of traffic mayhem! Embark on a challenging journey through the bustling streets, where you'll navigate and solve intricate puzzles in a unique car jam setting. In this Jam Game, your mission is to clear the chaotic traffic by strategically moving buses and creating color matches. Dive into the exciting world of match masters as you match 3 or more buses of the same color to clear them from the grid. Master the art of block jam as you strategically plan your moves to untangle the traffic and reach the next level. Engage in the thrilling Sorting Game mode, where every move counts. Exercise your brain and reflexes as you navigate through the increasingly challenging levels of bus jam. The vibrant visuals and dynamic 3D environment add an immersive touch to the game, making every level a visually stimulating experience. Key Features: - Match passengers to the correct bus. - Traffic Jam Challenge: Tackle the chaos of car jam and become a match master in this unique Sorting Game. - Color Match Madness: Match 3 passengers of the same color to clear the traffic grid. - 3D Experience: Immerse yourself in a visually appealing 3D environment with dynamic animations. - Block Jam Mastery: Plan your moves carefully to solve intricate puzzles and progress through levels. - Thrilling Levels: Challenge yourself with increasingly difficult puzzles as you advance in Bus Jam 3D. Whether you're a casual gamer or a match master enthusiast, Bus Jam 3D offers a fun and challenging experience for all. Download now and test your skills in the ultimate bus jam adventure. Can you untangle the traffic chaos and become the ultimate match master in this exciting Sorting Game?",
+    "short": "Get ready for a thrilling and addictive experience with \"Car Jam 3D\", the ultimate Sorting Game that puts your skills to the test in a world of traffic…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/JjjKql0oU_QE3M5N28o4OuTMgXZX7AuEJON1fnCwU19b7Z7_9tRNVzOnhwxBGBPS-qVUkZTPYJRD1PLwXMpDBg=w526-h296",
+      "https://play-lh.googleusercontent.com/rEe8NqrYFBPsN_iXKtdjwGHx6QkuyAo0aXf8xx4bq7kpJMx4bx54HdHtGBSiWJTrnA-IkGcNUjzhOwLuRUiHqxc=w526-h296",
+      "https://play-lh.googleusercontent.com/IHFDPJyKeQsC9BszwhS38HSWY-a8iMKw4kZdDlEzU7uOZisLr6ooZPn6ZTGt9TRq5hG8YGKvRpF391IdntAE=w526-h296",
+      "https://play-lh.googleusercontent.com/0uC1aqvy8ed-Rxbyi2pEq0G9il2eIspg-t8-UMjhYtg6h78x-T-h7Yxcvno-Y-zb9cItkgM1PTn5w5LQ1fyT27Q=w526-h296",
+      "https://play-lh.googleusercontent.com/rDD3y0bBzCNPV7Co9AR6OBbD9bt4qS7bghg8Z_S-yUuOjYAVnaL5aK-MKah4Aw74rBI0C36uF2h_mmA7GzZnkyE=w526-h296",
+      "https://play-lh.googleusercontent.com/UxVTmNUkwlCLNqacuyCw7zsMyIsF5KCF7aLGoZXMqLyFFnlI70W1Guq-pVDjwQ1_S04mGNfoUVlv0WdulDoHew=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.car.jam.color.match3"
+  },
+  {
+    "id": "com.skyfall.xmas.jigsawpuzzle",
+    "name": "Christmas Jigsaw - Puzzle Game",
+    "slug": "christmas-jigsaw-puzzle-game",
+    "icon": "https://play-lh.googleusercontent.com/s_QXaUojRQMYPWQFTPYlfydZd5W-Pr3PulneRMh9300Ynm8h3cZmVDzJGivkBRKnCd_2QBO9KwHl_WrrhhuwqA=s256",
+    "desc": "Get into the holiday spirit with Christmas Jigsaw - Puzzle Game! Immerse yourself in the enchanting world of yuletide joy as you piece together beautifully illustrated puzzles, each capturing the magic of Christmas. This app offers a delightful and challenging experience for puzzle enthusiasts and anyone looking to embrace the festive season. 🎄 Features 🎄 🧩 Diverse Puzzle Selection: Enjoy a wide array of Christmas-themed jigsaw puzzles, from classic snowy landscapes to charming depictions of Santa, reindeer, and cozy holiday scenes. With varying levels of difficulty, there's something for everyone, from beginners to expert puzzlers. 🎁 Festive Vibes: The app's immersive visuals and heartwarming soundscapes will transport you to a winter wonderland. Feel the warmth of the season as you complete each puzzle. 🌟 Relaxing or Challenging Gameplay: Tailor the experience to your liking. Whether you want a relaxing break or a brain-teasing challenge, our game lets you choose the level of difficulty that suits your mood. 📆 Daily Puzzles: Get a daily dose of holiday cheer with a new puzzle each day. Perfect for building anticipation as Christmas approaches. 👫 Social and Competitive: Share your progress with friends and family, or compete to see who can complete the most puzzles. Spread the joy of the season together! 📱 Easy-to-Use Interface: Our user-friendly design ensures a smooth and enjoyable puzzle-solving experience for users of all ages. 🎅 Get ready to create cherished holiday memories as you piece together these festive jigsaws. Whether you're spending time with loved ones or simply want to unwind during the holiday season, Christmas Jigsaw - Puzzle Game is the perfect way to capture the magic of Christmas on your device. Download now and let the holiday cheer begin!",
+    "short": "Get into the holiday spirit with Christmas Jigsaw - Puzzle Game! Immerse yourself in the enchanting world of yuletide joy as you piece together…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/Gck8cEW0yil40h5buSDXWTBWsgCb4je515JaRTPFBhC68aF2wtlNJk2BNxJXyru_7QyrQdqCwn8UpScGi4xHCw=w526-h296",
+      "https://play-lh.googleusercontent.com/NTzJrP006R8AGc0hhWppLMxz4SdwvutBBHtFA0ag-R7CYQnNt4thw4oRJi-bIA6UyQgc7MUA6FIZDYQtJ28G8g=w526-h296",
+      "https://play-lh.googleusercontent.com/z5v3J6w7X3TdT7vRC5XIxJPibHjn4w_X7Dw0oOcRKRy1ppnTiYf02QDbS6Y9AhPb0Nz9-FX2xbiYCc0NEqMJ=w526-h296",
+      "https://play-lh.googleusercontent.com/j1hFz7OeUpBsLOorb6wOrkqGFTkIAGZY6dGNf6yfUVoWDCPED_mnracetZk-pV0-O5GG-C-v-rGEg5uODQY5xBE=w526-h296",
+      "https://play-lh.googleusercontent.com/-_bHkvztNGhO11AepvkI-JhHuYm9i6JRkjpF3n_54y-Fvz1vZ46KauPxa7sd55bwtsvjHNZLOt2uk1x5LZARZA=w526-h296",
+      "https://play-lh.googleusercontent.com/te9rdKMqZ5A5rvuHQuCvHsxVT7CGBKuwjjtCzjyp3jICdGdlf73Qp9hR9QqZpfrdMMnU4dhBIs3sQ25z2uM9vg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skyfall.xmas.jigsawpuzzle"
+  },
+  {
+    "id": "com.bhrigu.connect.dots.drawlines",
+    "name": "Connect Dots - Draw Lines",
+    "slug": "connect-dots-draw-lines",
+    "icon": "https://play-lh.googleusercontent.com/LGduZl9aoO386DRg_AfdzLwWrBYlZ0FD2-6oF1b7ge7t2yJGKX7DO2pYUA_eKVHrUzIE5lMJIQhNl40m5aeGAg=s256",
+    "desc": "Draw the line to connect the same color dots. Connect all dots, and cover the entire board to solve puzzle. But watch out, pipes will break if they cross or overlap! You'll need to use your strategic skills to plan the pipe placements carefully to avoid any breaks in the connection. Enjoy 2000+ free puzzles in color game. Play Three game modes Classic, Advance and Challenge. Clean, colorful graphics with relaxing sound effects. There are also daily challenges to test your skills and earn rewards. Connect Dots : Draw Lines is the perfect game to unwind and de-stress after a long day. You can compete against your friends on the leaderboard, or simply enjoy the satisfying feeling of completing each level on your own. So why wait? Download Connect dots - color game now and see if you have what it takes to master all the puzzles!",
+    "short": "Draw the line to connect the same color dots. Connect all dots, and cover the entire board to solve puzzle. But watch out, pipes will break if they cross…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/hFMDRDeiapqdiGZQszSp-Yt74We_wg7JBL-5I-SeHlQzAMCCQ7eFOYkLCcl5H15AOvATB6bl7Qggbsd3FA3-=w526-h296",
+      "https://play-lh.googleusercontent.com/nGjbO8AP3OOdF0X76WL12irF0S1H2vzxwhvxRQKJ9DydvK4zzDdVCqwgdvYyHgcOsdNc6xwvf9Wo53APS2bQFA=w526-h296",
+      "https://play-lh.googleusercontent.com/v50mzsgi_yOwydBrL3Ck-Fzo_zLDHFURxUtyxrq3syaLqu8QtLepgpOXoPlh2Pr9h8XjfumaChbGciOv7a9PaQ=w526-h296",
+      "https://play-lh.googleusercontent.com/lKTvpNL43DXXibSKpdketFBBZ1qLiRttercHpKAj3AfyxNin82y9F3k1VO-g9Abb011EzGwe8B9L0QnIQT_dvw=w526-h296",
+      "https://play-lh.googleusercontent.com/-PKWE-QW_MU4ksXQMJ--kSxBkpibFMvO5NyGSR80OF3StPddHdIncUBVBvC572mCdK_yJ5axnm1Iu2qwgSdK=w526-h296",
+      "https://play-lh.googleusercontent.com/OtLFcODorfgc7BsuucK6OKhfnANgydqv6ItHc-bocOQGZXFXykgMdmGYFckbPUe_UU-nRz0gZ5YWSuVK7wsFiA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.connect.dots.drawlines"
+  },
+  {
+    "id": "com.poder.cube.tile.match3d.master",
+    "name": "Cube Tile Match 3D Master",
+    "slug": "cube-tile-match-3d-master",
+    "icon": "https://play-lh.googleusercontent.com/XWWg4vHqU0VcLOjuDl0s0RhO_gdn2ovR0vpch9vPtskHeWWZpY76n8F9FsCs4eSkDlKh_8bGi6rMt-mIoHejmQ=s256",
+    "desc": "Cube Tile is a stylish match 3d puzzle game. You can swipe to rotate the cube match identical tiles to clear levels and use power to help you clear all tiles even more quickly. Tap and match triple tiles to progress to the next cube puzzle! Cube Tile Match 3D is a challenging puzzle game about matching three tiles together for both kids and adults! Gameplay: -> Swipe to rotate 3D cube -> Choose 3 same 3D tiles -> DON'T fill up collection bar -> Clear all tiles within limited time -> If stuck use Hint & shuffle boosters Cube Tile Match 3D Features: -> Addictive and sometimes needs a strategy -> Full angle rotation with the cool cube -> Hundreds of 3D tiles and shapes like animals, plane, cool toys, food, cars, fox, fruits... -> Train Brain and finger by matching triple tiles -> The best time killer when you want to relax -> Improves brain functions like memory, focus, attention, and concentration Cube Tile Match 3D is absolutely an addictive strategy games that you must fall in love with once you play it. As a board game, this matching 3d game is simple & entertaining for anybody to enjoy! Try the free triple matching puzzle now! Level up and grow to be a master in finding & matching elements.",
+    "short": "Cube Tile is a stylish match 3d puzzle game. You can swipe to rotate the cube match identical tiles to clear levels and use power to help you clear all…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/bkyI4bBfeg5wGK-rl30t-9gtUSJ7DOxgB28WtjtUiPlqVsXIoeWmHIkfzS2YcpAyuuHzviyTSJsn7_781XFR=w526-h296",
+      "https://play-lh.googleusercontent.com/-K2pGC6o_shd-f6aeMsrJ0NQQlemMcSkCjU9T_5PETNosSYbChFjcuxgVXuvRD8wd4NTgsewrokbi8kf4uEXbg=w526-h296",
+      "https://play-lh.googleusercontent.com/pSlRbjLM8duvincPNRtWo2dfcUEqBmFYL9vLB9IjpO0aQ-xzceGsnqsKRVUvDJALhiUzclczw_eC6qkcGaXLSA=w526-h296",
+      "https://play-lh.googleusercontent.com/7fRecl6iiuYAWo30hJEG3kKeuxBjZ0JRCteV-Bmu6CJV4YEM4OfNc1ZAn3SCbckaczxmfdaeEdh8ySDyEmNW=w526-h296",
+      "https://play-lh.googleusercontent.com/Eb1_7V53XqOsIjDF9CouMsRBdcW3InMvGpNyzgSuCiZ9g7QVFMyMIrwc0zHVwUaTVDG3YKnVIawk0AN8kIZ65bY=w526-h296",
+      "https://play-lh.googleusercontent.com/7vcrPO32r4A_9OWFSqV5vNA73mGOIuVFDVKTqUGvrshz55mwDNsd2NX-A5bVz6s43u2GPFicIi6FHq27X3lI=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.cube.tile.match3d.master"
+  },
+  {
+    "id": "com.poder.darts.club.board.game",
+    "name": "Darts Club - Dart Board Game",
+    "slug": "darts-club-dart-board-game",
+    "icon": "https://play-lh.googleusercontent.com/I1c5N2c5WBRTjywuXffHhjYrQ51QTI-IjdfXo_KQzOxmDo6CkftTZMtzKkpNscvyqbQzjYuwIgvVbmSdgPvm45Q=s256",
+    "desc": "Professional 3D darts simulator game. The ultimate fun shooting games! Can you hit all the targets and pocket the bonus points? Real darts physics enabled with smooth gameplay and animations. Choose your difficulty levels to complete your darts challenges. Multiple game modes supported: 301, 501, Half-It, Clock, Cricket, Count-Up. Practice mode for beginners. Totally free to play, easy to start and hard to be the darts master! Play in an amazing darts arena complete with animated dartboards and big screen action. Darts Club is a PvP multiplayer game with a collectible twist! Increase your darts skills. The best 3d dart shooting games is designed for you! We'd love to hear your feedback so we can keep improving the game.",
+    "short": "Professional 3D darts simulator game. The ultimate fun shooting games! Can you hit all the targets and pocket the bonus points? Real darts physics enabled…",
+    "genre": "Sports",
+    "genres": [
+      "Sports"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/iaj02Ra5rebowMory-8KHLoYl6PsfXT6G4PhU_0Lus8q5ArRgfBDIjweZPf-LWflqmw0pp1jCk8N29OdPgKh9Q=w526-h296",
+      "https://play-lh.googleusercontent.com/z6PQ6yHCyuVeb7DbEbGXqdVaDq0A3ubN-RCUNezg0b5y6Qlc1vVaBSbE58iEt7WS1mrqmz9VzIKmyck6dQbLbQ=w526-h296",
+      "https://play-lh.googleusercontent.com/zHHYjw4B05tvwLGK4jptIGHrur1lCTq_d_AGxzm_b6csFROdWGsHTIasx-WjwSu0HCuiTUvafFzXpjdGTJf1=w526-h296",
+      "https://play-lh.googleusercontent.com/wLqERZ8ZS5Ol4cvw8CaO0m5QWhXbdD8W50j_lzIMvBO-spZpFPbzYDvhUynQZ4O1wSYacBO4Nh9473rXjzIbqzw=w526-h296",
+      "https://play-lh.googleusercontent.com/t_ltxRviLbNSZeJ17sS-xBLv3-uOObyFHh1Ht5B9IklwZWbUR7ikAsBJUMXf_-5tmjy_zFZmjAQbIYJYq7fdsRg=w526-h296",
+      "https://play-lh.googleusercontent.com/6PT73AnJsifbXqYQpgF_qOCSgyJeLJvgRsUnLgagKL_pR5WuTS-crca7DPb4VTxaw8VMahX2WQHvZpBLlzpFGw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.darts.club.board.game"
+  },
+  {
+    "id": "com.poder.fashion.show.dressup.game",
+    "name": "Fashion Show - Dress Up Games",
+    "slug": "fashion-show-dress-up-games",
+    "icon": "https://play-lh.googleusercontent.com/c_kmfpbuaB-3dF6f6Ps7jqC7immP9F0LGZ0tLrx_YbAH6rQecF6f1BBDGfluVIK70WGtoZnbKPsylWDpR6Nl=s256",
+    "desc": "Be a fabulous fashion designer and dress up a supermodel to rule all the fashion runways around the world! A perfect Dress up games for girls & boys, ready to show off your fashion designer skills in this Fashion Show - Dress Up Games. Can you do a makeover and compete against others? Dress up with “Fashion Show” an extra ordinary fashion adventure game where you dress up with various traditional dresses, Indian dresses, weston clothes, trendy short dresses and with stunning makeup layout and compete with real players across the world. Indian fashion stylist let you style looks, set trends and become the next big fashion stylist in the Fashion world! Start becoming a celebrity stylist, create fashionable looks for idols. Create looks for Indian idols that will take to the top of the fashion world with tons of fashionable Indian dresses, wedding dress, traditional dresses and gorgeous bridal makeup, dream house. Fashion show is the most beautiful beauty salon games. When you play this fashion designer game, you have a chance to become a celebrity stylist and you can dress up your Indian idol as you like, turn them into fantasy girls with various gorgeous girls dresses, traditional dresses, trendy short dresses and stunning makeup layout and choose the most beautiful bridal makeup looks, become a fashion stylist. Become a super fashion stylist & designer for all kinds of dress up & fashion events! Style girls with designer clothes, design make up looks and choose the hottest fashion accessories with this fashion show - dress Up game. Fashion Show features: * Career mode - you choose the fashion events and style, dress up & makeup to create the perfect makeover! Style your super model in designer clothes, hair and makeup, add fashion accessories & jewelry, and choose the perfect background. * Challenges mode - you’ll compete 1-ON-1 with other aspiring clothing stylists & designers to fashion the most stylish outfits! Become a top fashion with clothing designer and get recognition for your unique fashion style! Dress up your super model in your best fashion outfit & win! * Check out your style score in game challenge * Gorgeous collection of fashion world! * Get rewarded on each fabulous styling you submit - allowing you to add the hottest items to your super stylist closet and progress to your next styling event! Start your career as a fashion stylist Now! Download Fashion show to become a clothing designer and personal stylist in this fun game for girls and boys, which is also a fun dress up game for all ages thanks to high-quality graphics and an exciting variety of events!",
+    "short": "Be a fabulous fashion designer and dress up a supermodel to rule all the fashion runways around the world! A perfect Dress up games for girls & boys,…",
+    "genre": "Casual",
+    "genres": [
+      "Casual"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/lzBeCXYORRkHpkinqk_WUL981h_hR1ZGPqOk_L481pJfJtUwtthGFJn6Efij9TnsGkFdluSqw2ggRklDFgfeNiM=w526-h296",
+      "https://play-lh.googleusercontent.com/_-cxsiT-LFrfNLJvFgootuoc-IFGaLKY82GRjJcjJNO-45DVyCgZyRjbbcua0akoSqkCJV5inenEMdlBXgWGMQ=w526-h296",
+      "https://play-lh.googleusercontent.com/7NObHNfeXHDZ2yEAfAVhHJGZtm5UktjEbBTs-NHDR7jeJ272BzSlIGsV9pKnWTpKM2rjercGNfViminfJh63Wg=w526-h296",
+      "https://play-lh.googleusercontent.com/oBmBA6fT_AH-smK-hQtZBkGEqqUgU0QJEkAnf26Dhtek67LracVjkEkjvsK8mxiFN2gIv12YFCV_-3agXUusJg=w526-h296",
+      "https://play-lh.googleusercontent.com/wtX_Y14iUL47vzYNVy7STrQNCfQLoXDfeVjFIaVds89LUOD8SIFEoFYzAPKogF11krIPCPO9JbkRHmmEkpO5hg=w526-h296",
+      "https://play-lh.googleusercontent.com/rlFbk2hwtuuahNlo-Tvsj3cb1NyZJ80Og13CP927WyJOS9qraoHLj7AE3mOuX0fbxPWnmpfUUkjEm5Ibj7KOgA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.fashion.show.dressup.game"
+  },
+  {
+    "id": "com.bhrigu.find.difference",
+    "name": "Find Difference : Differences",
+    "slug": "find-difference-differences",
+    "icon": "https://play-lh.googleusercontent.com/ZxbKQ1uVfobXdgoc2cjKd-JX1pTbbXfM_OmTPAADGSfbJr9ZR5FmWz0QepRhDZ6jrIcRaDwq15cPEhWdg96q=s256",
+    "desc": "Find the differences between the two similar pictures and solve the puzzle! Easy and relaxing puzzle game. Focus on the different details, improve your powers of observation, and enjoy this free spot the difference game! HOW TO PLAY: - Compare two pictures to spot the differences. - Spot the difference and tap on it to highlight the different objects. - Pinch the image to zoom in to see more details. - Click the hint button when you get stuck in puzzle game & need help to spot the differences. FEATURES: - Simple and intuitive game design. - Thousands of High-quality pictures are waiting for you to challenge. - A Brain Training game for all ages & interests, anywhere & anytime. - Enjoy thousands of levels and experience the joy of concentration. Are you ready to have fun with Find Difference: puzzle game? Download Now!",
+    "short": "Find the differences between the two similar pictures and solve the puzzle! Easy and relaxing puzzle game. Focus on the different details, improve your…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/UEE0QJ_kJW7HSQnARL4nfWbo2rrz2v_g2qAdJahsCoD-goCHbp8kQfx0eZjgmWDNH3b63cVZxnQxuJ5w37vBgw=w526-h296",
+      "https://play-lh.googleusercontent.com/U3XPMfKd7sCFp7Ew77V_cdOZ3risRGtOGbSKVSfZM_2MdWZj-DL8FnpRYGN10TFVJMTCiFwowv0zig98Qs_mBQ=w526-h296",
+      "https://play-lh.googleusercontent.com/ilEJ6fQl0ImxPMycyCuQjd3tCFYvsXcbBmEoI590EtQ7u7_bSuSB5yvo8CshjTROYILHmWDMZkAPMVHRHifmHw=w526-h296",
+      "https://play-lh.googleusercontent.com/tIHwdtHyLZNpTOagPiPdM8fXQ-XwtsDgoCuigbuGrsn2Su8UyNZcqVc4kZ9WRLbTU0etFJIeNT6rF7_KGbm9ng=w526-h296",
+      "https://play-lh.googleusercontent.com/uXLcf_5M5in3ZGm4J0X4u87Lp9obwgMuDJreyAXyRlOuOFow-QqWBLZNLW_Y5hfvRc7ndtoe8EtsCEg9C7X8uA=w526-h296",
+      "https://play-lh.googleusercontent.com/QsfrQgKQa3J_X4wUaDjuMKkMRW5MJ2XOIB6ufA7ttOYHikL4dg29gw-zRhUsuUcGsIrVfjXPm1NV7idM8nsR=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.find.difference"
+  },
+  {
+    "id": "com.logicworklab.fontstyle.lettering.design.logo.maker",
+    "name": "Font Style - Lettering Design",
+    "slug": "font-style-lettering-design",
+    "icon": "https://play-lh.googleusercontent.com/W9hRI-iiXUlLGRNDIQuEWmrC_9zrQQNymPnM23t3nsMj3QVr9U4hblkG3Rd5teJZ1EESbjOy9GDHAIJwSeDQzw=s256",
+    "desc": "Font Style has a feature called text effect that includes wavy text, adjustable text size, text outline width, and other options. By using the wavy text feature, your text can be displayed in a fun and dynamic manner. It also offers you an option to set a text in italics. By using Font Style, you can enter your own text and customize it with a unique font style. It also offers you the option to modify the character effect as it provides features such as character spacing and text width. Font Style is a stylish font maker app which allows you to create fancy text. With Font Style, you can create your own images by entering your own text. It allows you to add background colors to your images. Font Style for Story is an application that is easy to use and allows you to customize the size and placement of your text. Once you've created images by adding your own text, tap the save button to save the images to your camera roll. To make your story more creative, simply select them from a camera roll and add them to your story. Key Features:- -Add cursive fonts for letter styling -A perfect logo maker application -Offers a variety of tattoo font styles -Has the ability to change the lettering style -Allows you to create your own letter logo -Presents a range of tattoo fonts and letter fonts -Allows you to add color and images to your text -Helps you align your text -Available for free download Font Style app is an all-in-one application for creating unique calligraphy lettering. Font Style is easy to use and offers a variety of font colors to change the color of your text. With the help of a stylish text maker, you can create beautiful designs like font design, logo design, tattoo lettering design, alphabet design, calligraphy letter design, typography design, lettering font design, lettering tattoo, design letter, and more. Fonts for Instagram can be used to make your Instagram story font aesthetic by using fancy fonts. You can also add color and images to your fancy text. Download the Font Style - Lettering Design application now to enhance your text in a unique and stylish way.",
+    "short": "Font Style has a feature called text effect that includes wavy text, adjustable text size, text outline width, and other options. By using the wavy text…",
+    "genre": "Art & Design",
+    "genres": [
+      "Art & Design"
+    ],
+    "dev": "Logic Work Lab",
+    "shots": [
+      "https://play-lh.googleusercontent.com/Sqs-KnGo6iKdCoNgw3RMlIvkxrAK5Oh3L4OhP_hAHYnovgS-libT2zrgKOet90yuQaOx4Gltk2eYifVDQMLo=w526-h296",
+      "https://play-lh.googleusercontent.com/z6QQfDzBr8jxIRucSOh1L4VfiSkDFEQlge1fgmqGGWcw4eeZiAUCPebXQFhpn6ztZwJE15m0mCWEh_RWx3Movw=w526-h296",
+      "https://play-lh.googleusercontent.com/XyHD-rfNEto-Zd5DZWbTpPDYDF7Kvc1ar4_NVMuDrzasIRjgfn2zF_b0VqSX0rL70ZnBtLy2Vkxc4cVqGOZRgQ=w526-h296",
+      "https://play-lh.googleusercontent.com/LT8dfIWA5jNhvO3IqfcrYh8H_EfUdGylBo4BggMg31n1TUONgM_PO7sKjdIxgl5M4bMNnjLi91uYEcskNSkNBw=w526-h296",
+      "https://play-lh.googleusercontent.com/hLBkmrf12UsE2wM4l8TFpUXyqIob3a3j5MvgOQt8b5imO5wP2UjB8TxFPpTkJR32GbQ993w3AJba9cSL3J5Upw=w526-h296",
+      "https://play-lh.googleusercontent.com/6PrJY2i-vTvC9rjv8ynnXMwFgczmedP6Ho4HHvsk_wmkE4yvi8mXXWwwW3UObTLD33FLXNAxu7DszwpkHGTS=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.logicworklab.fontstyle.lettering.design.logo.maker"
+  },
+  {
+    "id": "com.poder.fruitscut",
+    "name": "Fruit Cut",
+    "slug": "fruit-cut",
+    "icon": "https://play-lh.googleusercontent.com/Fw1poZAIhiSl9T_1rebUy6rn--Riz6ad2-_uyLAYizd4MKpFQNNb1MLKPgg7d6_wFahEIIvhF9FMFmsQFn6hOw=s256",
+    "desc": "Gameplay is zero hassle. Time your throws carefully and try to slash multiple fruits at once to get bonus score! Be nimble and accurate - DO NOT MISS! 🍉 Fruit Cut has many unique features as compared to other famous fruit games. It's huge selection of blades. Select your favourite blade, swipe your finger on the screen and cut the yummy fruits into several pieces. Fruits Master has many different fruits, such as apple, oranges, watermelon, mango, pineapple, kiwi and so on. Fruits Master is best shooting game. 🍓 Fruit Cut is a new typical type of arcade game which is completely designed for ultimate fun and joy. The gameplay and controls are highly optimized as compared to other fruit games. Slice all the moving froots and make a jug of fresh juice. When you fill up the jug then a glass of shake is made each time, which double up your scores. Fruit cutting game is most popular game and also it call Fruit Slice game. 🥝 Features of Fruit Cut: - Tons of delicious and exciting fruits are available for slicing. - 30+ 3D knifes or blades are ready to cut the fruits. - Eye catching effects with special power ups. - Offline fruit game with extremely funny levels. - Free to play this fruit game and test your ninja skills. - Addictive gameplay with smooth and realistic controls. - 3D vivid graphics with real sound effects. What are you waiting for? Whether you're playing for some mindless fun and trying to relax and pass the time, or trying to improve your skills as a fruit cut ninja, this is the game for you. Enjoy the awesomeness and believe the hype of Fruit Cut – chop chop! 🗡️ Get this FRUIT CUT and experience the thrill of Fruit Slice Master on your device. 🍒",
+    "short": "Gameplay is zero hassle. Time your throws carefully and try to slash multiple fruits at once to get bonus score! Be nimble and accurate - DO NOT MISS! 🍉…",
+    "genre": "Action",
+    "genres": [
+      "Action",
+      "Casual"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/Nt_ORM72MLoW2H2D3d4xVa4yor7eK-ev1_ePfmH9KCSzvRAebXgI9b9GoAu9pVQJLV0RmlOulC0yhRd5BcAUD6k=w526-h296",
+      "https://play-lh.googleusercontent.com/P9gqZAtjn2S6dYhYKsUUd_etUzWjyAizEN3CRICiheaXHA3Ew_dMMPV4n3CfOk_soX0PTxPrGWV_7wGSxACQUYo=w526-h296",
+      "https://play-lh.googleusercontent.com/pvQh5mLUD0T-7isqRqc0iatK_72bii5JDB2Nz95Gi8G41jTrBp2b83a1XLU9zRqQFx8cXLvj8y5ORrh9LXrn=w526-h296",
+      "https://play-lh.googleusercontent.com/AZHw91VQMTrA4mk284aKGGv85K6p-tP3XsdvG_NULcYAiAJZ_1HVMlvOa8F5SOgzp1s3pgOZW_itBxvheo8AGQ=w526-h296",
+      "https://play-lh.googleusercontent.com/fSzUJZnVPwL9eezYg2n6ePhyg1oNKHDJ9C0voV6BnypStn7T9Zrs2B5N1IdWSZgP4AhEY4fhNT0kgZfVT-x8=w526-h296",
+      "https://play-lh.googleusercontent.com/YhVa5pilYrSb9OBTlLhjHw7qv80y-cQync45xa9F5tu3wysglUUNHBM0zY6k3XGgaTOsdR2BPbGbWd2iBIlV2cU=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.fruitscut"
+  },
+  {
+    "id": "com.sky.guess.emoji.puzzle",
+    "name": "Guess Emoji Puzzle!",
+    "slug": "guess-emoji-puzzle",
+    "icon": "https://play-lh.googleusercontent.com/-ZdAZrqOshBQ6RJOVetxBNk1oq2KHPhZr0rRql03rttH3FbnJ-HrebKvLgN20qBbGIxmBihyrTADm1w_UI9B=s256",
+    "desc": "Get ready for endless fun with Guess Emoji Puzzle - the ultimate emoji quiz and puzzle game! 🧩🔍 Test your skills in this exciting quiz game where you guess the phrase or word from a series of emojis. 😃👍 Challenge yourself with hundreds of levels that will keep you entertained for hours! 🎮 From easy to hard, each level is designed to stimulate your mind and make you think creatively. 💡✨ Whether you're a fan of emoji games or love a good guessing game, this app has something for everyone! 🥳🎯 ⭐ Features: - Hundreds of fun and challenging emoji puzzles 🧠 - Regular updates with new levels 📅 - Hints and skips to help you out when you’re stuck 💪 - Intuitive and user-friendly interface 🏆 Download Guess Emoji Puzzle! now and start guessing! 📲 It's the perfect mix of fun and challenge! 🌟 Ready to become the ultimate emoji puzzle master? Let's play! 🚀🎊",
+    "short": "Get ready for endless fun with Guess Emoji Puzzle - the ultimate emoji quiz and puzzle game! 🧩🔍 Test your skills in this exciting quiz game where you…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/CD_AzYiierxi6xp-UFixQnaorM5_-xjLhVMVmy3ib8l4RrnUi4RMB8sZIFz5Z3YU3OwvfI0CPlhlur1O_ATT=w526-h296",
+      "https://play-lh.googleusercontent.com/UWed4_spfvUnYWoV-pvFyvR_xTk_m2GdNtYAX87BbysuIK7OhA3Fb65_0idXwaxXBNNQrFiT1YeXVy0i7hZJ0xo=w526-h296",
+      "https://play-lh.googleusercontent.com/SbzyoHblE0V6UyqNAOFld0kI7TS94Km-nCkBZaddFRBQWfl6QRKkfXF6py0LeoVc_XiIwH9Q2CL3p5LpbXC8mw=w526-h296",
+      "https://play-lh.googleusercontent.com/8OqMS8g6CRDFqj25XpqCn9Yb1RcgBaWaulrLGeGoAFZqfOOvBiCad8JMBpcyM4nlYL_hRTxvntBj8HzXjhSa=w526-h296",
+      "https://play-lh.googleusercontent.com/a8SvKwiqfEtME2xukdwEFGcZS8_1e-4_514q9m00wKmbbepXgeLLg1SLgQImbTOPJLq1RfhzOVfwwSPzYknCLRc=w526-h296",
+      "https://play-lh.googleusercontent.com/z4wFKVH_hCO-RvAuzwwdcCGk7mqH5LMb4cNITxUdf6EkTotoh0J_NuMNtwnSkmVgIYjbSpYFN290A8NUldvFvHY=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.sky.guess.emoji.puzzle"
+  },
+  {
+    "id": "com.poder.hunter.heroes.assassin",
+    "name": "Hunter Heroes - Assassin",
+    "slug": "hunter-heroes-assassin",
+    "icon": "https://play-lh.googleusercontent.com/MUlo5cKc8bBQQSVGmTAHQ8Gy9Wr0iT_pRJFmbBbS80IUy1DwkUcOwys5LMyCMFsAMAZ7RKZhMikhar04mXl1Pw=s256",
+    "desc": "Control the assassin heroes and hunt down your targets one by one. Use your surroundings and shadows to stay hidden from flashlights. Targets with automatic robot, machine guns & weapons can be lurking around each corner. Attack them swiftly and escape without being spotted. Each eliminated target drops valuable gems. Use them to unlock and upgrade new heroes and weapons. Wage war in stunning fun 3D mini battles with your hunter heroes; equipped with guns, sniper rifles, swords, energy cannons and more! Hunter Heroes is designed exclusively to deliver premium gameplay experience in a Battle Royale. With HD graphics, enhanced special effects and smoother gameplay, Shadow fighter provides a realistic and immersive survival experience for all Battle Royale fans. Are you ready to experience the fun filled battle #Hunter Heroes? #Assassin",
+    "short": "Control the assassin heroes and hunt down your targets one by one. Use your surroundings and shadows to stay hidden from flashlights. Targets with…",
+    "genre": "Casual",
+    "genres": [
+      "Casual"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/yJ_wbwYEg-AfBIHwt9L-nclDkKfp0O7X4F0fKNgHQ_4_WbWVOl4zBjeWMc4A3T5jtncUjaLeMQQOgu54yCb6ow=w526-h296",
+      "https://play-lh.googleusercontent.com/HP7azzZQcKyPQ1l8Gn5i7OPgPyAv_1P6Jp-FoODRwNJxTtHeYqyfHMS96buhtcFtXsBYEUAco8AOKwZnsZyuJg=w526-h296",
+      "https://play-lh.googleusercontent.com/oQwINIEF8zlKe4Gj4rgN6AtNj_exOtrBC9FTSasaVtCyA6XTz63WKU5aKIC2F_uGeHtxomcroQ6U9yp1ft1wLA=w526-h296",
+      "https://play-lh.googleusercontent.com/nEUNdADBiTnMD-614QwmktViY3HxLnVDX_E64xZ2RR9qD3THl79GfvPlMWoz2zC2oT1VoV0ArtR1fbmDZtBrkw=w526-h296",
+      "https://play-lh.googleusercontent.com/6jY_9R0681WqqeA7DXGyU7alzvIEolHFmymjXVxi2xWsuVpoOzgB4VtRQlhoAIGjrQEECyKYCVTZk8GXZeXF_f0=w526-h296",
+      "https://play-lh.googleusercontent.com/nBBrXefU57XP88ziMHBc9QAepF8dHfXihfuat0z4g1mbvadIl2TeJaXyUaMrPymMGZpCkE4itEaJra1TVTlR=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.hunter.heroes.assassin"
+  },
+  {
+    "id": "com.ludocash.win",
+    "name": "Ludo Cash - Win Rewards",
+    "slug": "ludo-cash-win-rewards",
+    "icon": "https://play-lh.googleusercontent.com/gNduGLciDAwqGmKLV2JL7DQuKozoqKPHdXO1E41KkMDi9AUwe8YiCI7R8lBsmlcfS5vBS-L7N3LfcFnZ1O1BVg=s256",
+    "desc": "Turn your Ludo skills into real money with Ludo Cash - Win Rewards. Play Ludo with Zero Deposits! Welcome to the world of Ludo Cash, the ultimate skill-based Ludo game where you can win real cash prizes without spending a single rupee! Whether you're a casual player or a competitive champ, this is your chance to play India’s favorite board game and earn real money directly in your UPI or bank account. No deposits. No risk. Just pure Ludo fun and cash rewards! 🎯 Key Features: Win Real Cash – Earn up to ₹15,000+ per week just by playing Ludo! Zero Deposit Required – No entry fees, no recharge, just play & win. Instant Withdrawal – Withdraw your winnings directly to UPI or bank. Multiplayer Matches – Compete against real players across India. Quick & Classic Modes – Choose your style and start winning. Leaderboards & Rewards – Compete and climb the rankings daily. Ludo Cash - Win Rewards is a secure, fun, and rewarding way to earn money while enjoying the classic Ludo experience. Download now and start winning real rewards – 100% free, no deposit needed!",
+    "short": "Turn your Ludo skills into real money with Ludo Cash - Win Rewards. Play Ludo with Zero Deposits! Welcome to the world of Ludo Cash, the ultimate…",
+    "genre": "Board",
+    "genres": [
+      "Board"
+    ],
+    "dev": "Hayan Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/X50uDmeZZIKgyCqSjO98JMTAlCuAH8v0t2SbTpHI-a38cZe25WhrGsVkI58WdIqfiK-DW2hQCaO8WE4oZU8A=w526-h296",
+      "https://play-lh.googleusercontent.com/cMz1xKme_mgwb8lnSqM27T10R0o0v9Qny1lkMOJF-Io0GiJIWYmd3-b-up1FA7VS4iCk2NsFjDABQz0EGIUvzGo=w526-h296",
+      "https://play-lh.googleusercontent.com/aMQDiifIfRRYBM_bsPEEWbgmCRSmAjEsYX3UEyjrL2AE0m7wsZJaHuyWmfEM_Azr4363QByfCzUFt5czSWg-9Yw=w526-h296",
+      "https://play-lh.googleusercontent.com/HxfyZ_DMv_Pb_GBSKcAAawhsNP-iUzzvbBpFxyYdwPAz73UdD0jV46b2wtqOldrt7El-dUSGrpgCZYW7DbjywM8=w526-h296",
+      "https://play-lh.googleusercontent.com/jc5brZW3VkONOj2oEopSWRzz_9K1_tB_fnopfDBvpdjD4Ta1r_e2JOIjqODaDec0CF8ijvzczNxUcJ0HpL_Usg=w526-h296",
+      "https://play-lh.googleusercontent.com/VH_WdL81FyOYh3PVs3pXz8uXUx6xtGMFvHsL08GCc02wkdluHprY1YTUsioCn6-sPUdT9l9wiCRwdxRc6vapTHs=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.ludocash.win"
+  },
+  {
+    "id": "com.skyfallapp.mazerun.puzzlegame",
+    "name": "Maze Run - Puzzle Games",
+    "slug": "maze-run-puzzle-games",
+    "icon": "https://play-lh.googleusercontent.com/oguo2tCaEh8a7ql-PXya1T8xDJZ36lEK0DSTsKaA_tln0d_qvwq5hoGndF9Vw1CiVD0WKii9J0VUuC6CgOsxHzw=s256",
+    "desc": "Maze puzzle to relax your mind and relieve your stress. Simply swipe to choose in which direction you want to go at each intersection. Hints power helps you if you are stuck in a labyrinth. With beautiful mazes and a simple journey you will know some special maze forms are also available. Enjoy a simple retro 2D design and soothing music. Explore over 1000+ uniquely designed mazes with vivid colors themes. This incredible maze game is completely FREE to play. Download now and have fun!",
+    "short": "Maze puzzle to relax your mind and relieve your stress. Simply swipe to choose in which direction you want to go at each intersection. Hints power helps…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/eBzkK504DD0SwcZlL5HUxvYiqUDyBVmKb4JqkbXxOOJJwd0uGC1BHk_ZJteJveWMm3Fh3ewRddESN9ZNoU-c=w526-h296",
+      "https://play-lh.googleusercontent.com/aFtjlKL5WwDqwXo19b7OPdFxMRDotzktCcA3JZFn5A4CZKdkAAG4Lz9yggwWZVOEoF140Eq1aPxmrPJT-7mBFQ=w526-h296",
+      "https://play-lh.googleusercontent.com/IAh-LAbBwvUnzywjgTNnfCwiQj3pDBkLeuHfThUD0GPxx-Cm_cWRY8qzwBJrjC_7n2kktqTvK_I-iqOEJglr4g=w526-h296",
+      "https://play-lh.googleusercontent.com/DImSFbz0-gWVqyiQFBsdugqCUYRy79Pw4bwen7afScAijhHkPnuzCCZhhJmwcBN5Nz79eeGndzmp_V-ai_oYvA0=w526-h296",
+      "https://play-lh.googleusercontent.com/a0IrEycrpsxIwuT4glwgBr4YxkfR5-IrgvcZ6MhDWVS2t5MH_u8sseyaN1fNGf77DclZQSXSm5F_bYJoyo-X=w526-h296",
+      "https://play-lh.googleusercontent.com/T5RQ_FnQu2PPFTHbh9vkCNiFho-oa1yml3QvBjUOe3XqjpmUUmuf3OUQ0bTatwluVOUKc4sNwphBIp718-Sd7yw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skyfallapp.mazerun.puzzlegame"
+  },
+  {
+    "id": "com.bhrigu.mindi.rung.cardgame",
+    "name": "Mindi - Rung, Card Game",
+    "slug": "mindi-rung-card-game",
+    "icon": "https://play-lh.googleusercontent.com/qSjfR6tcraon9nfJWQxqxd3siNo4En6tROU-lu3aCJhHVG8DQP6Nrc7XjWbkxf0WvOEVyi-47IgrV0i50QYl2Q=s256",
+    "desc": "Mindi is the Most Popular, Traditional, Time Passing game know in India. That is easy to learn and offer a unique game experience every time you play it. It is a team game and the ultimate objective is to win a maximum no. of 10 numbered cards for your team and complete as many coats against the opponents. In Mindi Coat, players must use strategy and quick thinking to win rounds and ultimately beat their opponents. The game is played with a standard deck of cards, with the objective being to get rid of all your cards before anyone else. Two Modes Of Mindi Card Game Hide Mode - In Mindi the player to the dealer's right selects a card placing it to table face down which will be declared as trump suit for that play. Katte Mode - Play begins without choosing a trump suit when the player is unable to follow suit then whichever he/she chooses becomes the trump of the deal. But that's just the beginning - Rung Card Game offers a variety of exciting gameplay modes that will keep you engaged for hours on end. Whether you're a seasoned pro or a newcomer to the game, there's something for everyone in Mindi. Compete against friends and strangers from around the world in the online multiplayer mode, or challenge yourself in the single-player mode against a range of computer opponents. With daily challenges and rewards, you'll always have something to look forward to in Mindi. The game also features stunning graphics and smooth gameplay, with intuitive touch controls that make it easy to play on any mobile device. So what are you waiting for? Download Mindi Card Game today and join the millions of players who are already hooked on this addictive and fun card game!",
+    "short": "Mindi is the Most Popular, Traditional, Time Passing game know in India. That is easy to learn and offer a unique game experience every time you play it.…",
+    "genre": "Card",
+    "genres": [
+      "Card"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/k5Ak3ZIx0hJuEEe9-70WGG_n2Tq7FnGWEhUzC_6M_g_PURaLhuWHmqTtcRcCMWq3zXBghA36TKTBfuu1FKms=w526-h296",
+      "https://play-lh.googleusercontent.com/RRgPUHKfPOTZ-6E5kIMCw67oavqhMpOsq5CLST6ej9k9I2FUduuS-jNXBciti_6RjUCC2lRCSCi3S_5faHu9Nw=w526-h296",
+      "https://play-lh.googleusercontent.com/IGZJwUl5GPoNe1rRCfOcXFbKe_u86oQJi-H1ipnA5ak51Qau0X2OmvikURy61cKXDf9NeK1UcR2t_HtqagKF=w526-h296",
+      "https://play-lh.googleusercontent.com/E6HI_kPQO15CJyKCIjiY9UVUl_MHQWBTH0d3m4CXF1FbsHh3gztvyH2zuolvfJuJ_NE6I6xYMxe9XfvnpV6n=w526-h296",
+      "https://play-lh.googleusercontent.com/30tonlRpQYKEOjckcw2e70vqMMU8iR3G6tOMBmwsbCCmUjVUHnRgWJkcc8sbTwN3zpft_vg1XzH049Yf5rIx=w526-h296",
+      "https://play-lh.googleusercontent.com/YrfjPo8BZ1eUEy49Wnk6fXvTpTYmMJ5YLUIFoAk-7z72sGRmjF349q-OJ1Gh2iVf0Hr-25RupN7csSAp-D6dKw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.mindi.rung.cardgame"
+  },
+  {
+    "id": "com.logicworklab.circlemaster.perfectcircle",
+    "name": "Perfect CircleMaster Challenge",
+    "slug": "perfect-circlemaster-challenge",
+    "icon": "https://play-lh.googleusercontent.com/QlVRR1nIoIj6ttRiwcDIZiV7o9pBoTqbITXfXP85gf8AXdIOQRSBhU60ULCY4npJ-kFuGGWV02IND2ThFmbGDA=s256",
+    "desc": "Circle Master is an application designed to increase your circle-drawing abilities. It is your go-to tool which helps to improve your precision and displays the percentage of accuracy for each circle. Using Circle Master, you can draw a perfect circle with 90% accuracy or higher to earn combos that increase with continued precision. If accuracy drops below 90%, the combo resets to 1. It's a challenge worthy of the boldest artists! With Circle Master, you can get better at drawing perfect circles. It's not just about to draw circles; it's about pushing boundaries, breaking records, and becoming champions of the circle game . Key Features:- - Precision Improvement - Accuracy Display - Combo System - Reset Mechanism - Circle Challenge for Artists - User-Friendly Interface Download our Perfect CircleMaster Challenge application now to refine your circle-scoring skills and achieve precision like never before!",
+    "short": "Circle Master is an application designed to increase your circle-drawing abilities. It is your go-to tool which helps to improve your precision and…",
+    "genre": "Art & Design",
+    "genres": [
+      "Art & Design"
+    ],
+    "dev": "Logic Work Lab",
+    "shots": [
+      "https://play-lh.googleusercontent.com/YKsOj9XwYx5zAZ0bdftgiIiuQgTKfdgk8BzYVvtM7oGkO_mDcX3Mj_onZfego_OIHWNhq6QJ_9dZSxX1SOei2vc=w526-h296",
+      "https://play-lh.googleusercontent.com/YsgU01nHjmPqqJzI6aaYKPKzX9jcs-MEAYWwRu2y3GeKwuctEB9ErfV64gF7fUeFi0HE91hJYZSf5ygY6Brd=w526-h296",
+      "https://play-lh.googleusercontent.com/dxEdGCManBnNbLtcufz-SB7n2Wc5fRtVRi_nnv8kq4FKSwYdUPhTMPuOQDDuEDUzvZz-xCj9UyxmOrdDe_mw=w526-h296",
+      "https://play-lh.googleusercontent.com/aLtxngy1_jpA8759enp8mhpRwdgUr24sanEhL3IXUe4Ke0I4A8rxC2uCchMM2PFTO00ys2yRDylCJZ1ejpx8jg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.logicworklab.circlemaster.perfectcircle"
+  },
+  {
+    "id": "com.bhrigu.pullpin.pinout.puzzle",
+    "name": "Pull Pin Games : Pin Out 3D",
+    "slug": "pull-pin-games-pin-out-3d",
+    "icon": "https://play-lh.googleusercontent.com/H6rwQv65uhqhpf431Jtc-_92OEzORxnlKe0ZWG68kqrse0vKZJ6UVnd91iXvQP53VDUU8wCWHGvyifXW4DMf=s256",
+    "desc": "The ultimate brain-teasing Pull Pin Games that will challenge your strategic thinking and problem-solving skills. In this exciting game, you are presented with a series of puzzles where you must remove the pins in the correct order to progress to the next level. Remove the pins in the right order and go to next level. But beware of bombs! Bomb explosion will destroy tanks and balls - one wrong move and the game is over! Wait there is another level of trickery! Sometimes some of the balls are colorless, before they go into the pipe, they need to touch a color ball, so the color spreads to them as well. You'll need to use your wits and strategic thinking to anticipate the consequences of your actions and make the right choices to emerge victorious. So what are you waiting for? Download Pin Out 3D today and start challenging your mind like never before!",
+    "short": "The ultimate brain-teasing Pull Pin Games that will challenge your strategic thinking and problem-solving skills. In this exciting game, you are presented…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/dGoWoYDWANZ983j0b-SPMVnoHvDIZ7Gu3LnzUmPjvdk_SeT4cEKRxL-mGzVmNv_WhcX9hCkUB0cBhmJGYYQA=w526-h296",
+      "https://play-lh.googleusercontent.com/sEjTeJfAdPGIPMGF-wtwwamx2zvFcxR2DkgYqGLu8AGhVJftiHRyedQrL9BFe_y6zpUHKs84rGEWzsitvKairw=w526-h296",
+      "https://play-lh.googleusercontent.com/M0Ur59eV1pO0lWfNxztc7CKpXCIIf27Jj-n-B_MvOHw0JJkFd-DYpjptOTidmwNmK8rjiQ-QGDS5cMDOAASb3-k=w526-h296",
+      "https://play-lh.googleusercontent.com/Jn3wSybJfpP1X88QjiDI0Qw86ID0plcDIAIgnyYi3F9QEuiNCSZDVnGf8P6eQdHWMNKDkyfulTYjFJbpf5LibA=w526-h296",
+      "https://play-lh.googleusercontent.com/IjF-fkeo12H7GH2aRcnLXH2UZHJDB9qulv1BK0AfguJwFmwWBa1VEtoPDzoh8oVFXzupC3JIX4xzsynLSv-O7UQ=w526-h296",
+      "https://play-lh.googleusercontent.com/V0aYJwinSktj-ko0LfrRHWxE_PBPXKJ83Jun-zDb22rNI0nosFXRWnlu9vR_AN6AlXNYrooh7X8hoqsP0VvdCyc=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.pullpin.pinout.puzzle"
+  },
+  {
+    "id": "com.bhrigu.gin.rummy.card.game",
+    "name": "Rummy Poker - Card Game",
+    "slug": "rummy-poker-card-game",
+    "icon": "https://play-lh.googleusercontent.com/2PGy6sZ2hUuJR8HOm2XQg5EAA8QnQWZ4XlUiKDLT7X_u0XrhE_GQLgkwdc7QsptPUHlNulS6UkU_AO8gPRwerA=s256",
+    "desc": "Awesome Rummy Poker Card Game #1 You Will Ever Play! Offline Card Games! Do you love playing classic card games like Gin Rummy with friends? Start to play Rummy Poker with friends or great players from all around the world with the Gin Rummy Stars app NOW! Rummy is a classic card game for multiplayer, combining elements of the card games Rummy, Carioca, Cribbage and Euchre. The main contribution of our game is playing offline gin rummy plus its bet and room structure. You never run out of chips. We always send you millions of chips as gift. By this way, you can always play in high-bet rooms. Anyway, you'll love to play the free offline Gin Rummy game! Playing Gin Rummy and chatting with friends in-game is an amazing multiplayer offline card Games, multiplayer card game! Gin Rummy rules are easy to learn, so you can master the full Gin Rummy strategy in no time and enjoy the great card game with friends or family! PLAY FOR FREE: Experience all features totally free. PLAY ROYAL CARD GAME: Immerse in an environment that celebrates all types of card games, from gin rummy extra to the traditional tash wala game. Gin Rummy is intended for adult audiences and does not offer \"Real Money Gambling\" or an opportunity to win real money or prizes. Practice or success at our game does not imply future success at \"Real Money Gambling\". Experience a variety of high-quality Rummy Card Game Lounges for ultimate fun like never before!",
+    "short": "Awesome Rummy Poker Card Game #1 You Will Ever Play! Offline Card Games! Do you love playing classic card games like Gin Rummy with friends? Start to play…",
+    "genre": "Card",
+    "genres": [
+      "Card"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/pBipf4wfU2wFILeFtWFMv7RG8T2ddn-gSjMKiEHm2jqWvNg5qWngD7NQ0KMbT10JvaRl79sTuJG4E_rgTOB5=w526-h296",
+      "https://play-lh.googleusercontent.com/6geI1QkjU7W9ZquRO5kpMmvC3FFC90xa4A1VScEik0GuhgeKzgnTuaG2CKbLDCEeYKvzUUv4R_91RF0o52ifJg=w526-h296",
+      "https://play-lh.googleusercontent.com/_I_tv12jDat-Db2YiX4BaoZB3hFpV1TSSmR80x0WiZy420SQo-s8irlpHvm9BsIbMFwYONUVn77jBbIhAN_CCA=w526-h296",
+      "https://play-lh.googleusercontent.com/_Zr_GAOeE-UilUh3hH1kAjJDHhmeP_Ol-zijT92ZIq2zcUvQI6NQn5rURQFKFYZLP-Bp7JEZSNVmijifi0hnUw=w526-h296",
+      "https://play-lh.googleusercontent.com/vFjGPsOEq_kZHzvMzLyyECcBMO1CJoUtaGjPm6spg7shi7t0wmIiZoarHzWl-fkolvQpXi2_mpfGf1mKwyPscQ=w526-h296",
+      "https://play-lh.googleusercontent.com/D1OO0MhvTUEZQqDhxacADwHA_lHUv2uc8cR5RlxTwD31zSqnXFwS4MfNTwZT3V_LcXguk6-K8iqnK2XsbiOVnX4=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.gin.rummy.card.game"
+  },
+  {
+    "id": "com.bhrigu.savethedog.dogrescue",
+    "name": "Save The Dog - Draw To Save",
+    "slug": "save-the-dog-draw-to-save",
+    "icon": "https://play-lh.googleusercontent.com/tje4D_kTfreTq3U2MhwhiIANHYrplkSDGE7-JViuMmnXaIDOQX2WiBHTLwJeCf5ubaoCrOssxqEd7EdDigpm8w=s256",
+    "desc": "Test your brain and your drawing skills with Save The Doge - Draw To Save. It is a fun puzzle draw games. Hey! These bees are dangerous! Can you save the dog from the angry bees? You draw lines with your fingers to create walls that protect the dog from attacks by bees. You need to protect the dog with the your wall for 10 seconds during the attack of the bees, hold on and you will win the game. Use your brain to save the doge. Use less ink to get higher rate! Draw games help you train your brain effectively. You must use your freehand drawing skills to save a dog from a swarm of bees in the entertaining and brainteaser game Dog Rescue. Save your little dog from bees now. Try to win this entertaining game to sharpen your brain! Download and Draw now!",
+    "short": "Test your brain and your drawing skills with Save The Doge - Draw To Save. It is a fun puzzle draw games. Hey! These bees are dangerous! Can you save the…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/HDydAcFvAxPMvLLfQcCs-bUcBIBK_XUrhVAFYw44khxAlX2GCsMFGB5l2gDKYsXLV_yf5mocGP7CnT41gf1jmA=w526-h296",
+      "https://play-lh.googleusercontent.com/0SxuUCINRkQeZEsQEbeaJpw0JiFbFal_MyJmO207X6p2Evriukqf-xHmBhDa2afJwaKBldcKKpVcBHzlGEL6tQ=w526-h296",
+      "https://play-lh.googleusercontent.com/xf4vQq4xII3QQ3N3B-PmcEF_uMBAIi9oSKJ0hBnTZcXKexAjbn2whHVcEqMUpXbeqF_84pxx3fBHKLK4zQW8=w526-h296",
+      "https://play-lh.googleusercontent.com/X9jM5--gba2pm5DtqZUqa51F3BZqaZ3W1SSPUGxTJt6Kwg9vS119Vu856wbdwKtkirb8KgKtACcq-6xwy0IuBZs=w526-h296",
+      "https://play-lh.googleusercontent.com/iDmtxdUSLAIY0FcmpgnSBQRwAf4lb3OjdY7EP0heGD5ieSMyU8tqcLsKJ8giZ9cG5g-jvktzFBMu9ZL9jfB3p5k=w526-h296",
+      "https://play-lh.googleusercontent.com/NEOMghQk69vtv-ZuMBp4ue7p-TgVIBgQT4ziJnVw4nG5L8KxQTfcjL0vx7JKPdQ9nhxrUIR8DOMoYKM_YDXi_w=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.savethedog.dogrescue"
+  },
+  {
+    "id": "com.poder.sudoku",
+    "name": "Sudoku - Classic Puzzle Game",
+    "slug": "sudoku-classic-puzzle-game",
+    "icon": "https://play-lh.googleusercontent.com/CJ6tn9DkOE5a5YGmcL2Q4Mri11GSPiKohA0rZCXg0WfZF9SODyhKpxmAjgk4prr3UFxg-6bPdSQifoL_Mif-SH4=s256",
+    "desc": "Welcome to #1 free sudoku game, sudoku classic puzzle game is best way to improve your brain focusing power. Solve daily sudoku challenge and have fun with free suduku! Classic sudoku is for beginners and professional players. If you want to relax or keep the mind active, then Sudoku Free Puzzle Game are best for you! Sudoku is available offline. Playing this free number puzzle on mobile is as good as real pencil and paper. Sudoku classic puzzle game has comes in five difficulty levels: fast, easy, medium, hard and expert! Play easy sudoku to exercise your brain and improve logical thinking or Try sudoku medium and sudoku hard to gives your mind a real workout. Our “Hint” button can teach you to solve killer sudoku. The hints don’t just give you the answer, they help you learn the why behind the answer. This feature will help you learn all the techniques you need to solve sudoku puzzles whether you’re a complete novice playing your first game or you’ve progressed all the way to expert difficulty. Challenge yourself figuring out your mistakes with kingdom sudoku evil. • Colorfull Themes Choose one of two appearances to design your own websudoku kingdom! Play these fun number games with more comfort, even in the dark! • Auto Save If you leave a game with numbers unfinished, it will be saved and Enjoy continue playing anytime. • Eraser Get rid of the mistakes in the free number games. • Unlimited Undos Made a mistake? Or accidentally have the same numbers match in a row while solving a brain teasers game? Just put it back quickly! • Statistics Track your progress for each mode and analyze your best time and other achievements. Features: ✓ Complete Daily Sudoku Challenges that's make you sudoku expert. ✓ Turn on Notes to make notes as on paper. Each time you fill in a cell, notes are automatically updated! ✓ Highlight duplicates to avoid repeating numbers in a row, column and block. ✓ Hints can guide you through the points when you are stuck. ✓ Highlighting of a row, column and box related to the selected cell. If you are an excellent suduku solver welcome to our kingdom suduku! Here you can spend your free time keeping your mind sharp with classic number brain teasers. Regular game practice will help you become a real sudoku master. Please feel free contact our support team any time at studio.poder@gmail.com if you have any questions or suggestions about improving our sudoku game. Challenge your brain anytime, anywhere with this Brain game!",
+    "short": "Welcome to #1 free sudoku game, sudoku classic puzzle game is best way to improve your brain focusing power. Solve daily sudoku challenge and have fun…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/DomOzeSkdctz19uPsKnfwBHyZreuCJrzgN86N1xuVph1qLFNYsVfcdteHNyohJnt9tcWPZ-5-5YclqEGMNxx=w526-h296",
+      "https://play-lh.googleusercontent.com/X0UojF85qDNkbxZYEz-8vJs4Vb8yJA3BaR1FycaWeJomv12pMP8LwA-Uq8IwbXMxRLrC5z7GlgF8U9o3uBUCZw=w526-h296",
+      "https://play-lh.googleusercontent.com/27CUt1rpaWrFIwVDPbuj9i9rFDArl7YCk9Dexf1uFPQ-upLwq90WJS0zPw4IQRaqhvWY74MylZVIUkcXWJoZHA=w526-h296",
+      "https://play-lh.googleusercontent.com/7b2f1iJrBOyr-0szgW6gsVB_NcsH8g5NqeaszDHY6cxfjZSAE7vrDX0Cf6eo9S9E5D69PRLCGVhXHmgAAFnq5g=w526-h296",
+      "https://play-lh.googleusercontent.com/wsiDe36HAlvGkDcfLjSEWoRk565oVH4sNMECuAqa2vI4_FOxAgy5xcQ-pwyw6YAKO3RqMKMvnJKvFxDfmtbqJx4=w526-h296",
+      "https://play-lh.googleusercontent.com/olS69KN6HQEWZSSJhIk-IxGFvEHKQhyl6Ybl_EVDHniRjKjL8XOi1WT75F67Cw_XWNbycnhupSOgjLouDJKtoA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.sudoku"
+  },
+  {
+    "id": "com.tapaway.cube.puzzle.game",
+    "name": "Tap Away - Cube Puzzle Game",
+    "slug": "tap-away-cube-puzzle-game",
+    "icon": "https://play-lh.googleusercontent.com/67zQaoNL2iMVIHkXU-30WD2-z2NW3lqipvse3_fRT8YyzwJcRrqDhBK2mZhRVttE1w2IOXm5t1gKRRjD_NNaNkE=s256",
+    "desc": "The ultimate TAP Challenge is here! Tap the blocks to make clear the screen. But the blocks will only go in one direction, so make careful planning and strategic thinking. As you progress, the blocks form different and bigger shapes. Swipe to rotate the shape and choose your next move. Customize your blocks with different colorful skins and themes. Relax your brain, perfect time killer. Tricky, challenging yet stress relieving and satisfying Cube Puzzle Game!",
+    "short": "The ultimate TAP Challenge is here! Tap the blocks to make clear the screen. But the blocks will only go in one direction, so make careful planning and…",
+    "genre": "Casual",
+    "genres": [
+      "Casual"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/bldcVcTLgaj8mgb1qa1cJAuGWB6vIVtewlnf9kca7t5XpNIKJr3NMdd564hvtw_dvezbITnX_bxT2yRz2jBA=w526-h296",
+      "https://play-lh.googleusercontent.com/nrZM9TZIRzp7E0wRLKqqqWwdJ4pA5trRJWgUMgnDz8KBdfTK6s1XZ05C36IyVUforF-yqBDk5TNTBvZm7Etirx0=w526-h296",
+      "https://play-lh.googleusercontent.com/3uPlCNl7CrCRjlah9OErqDNitEAxEkhMWCQfdTNYj2eocElAb3y61iJPukSjpxN6SIhRGi5UkzuId2z71sdvLA=w526-h296",
+      "https://play-lh.googleusercontent.com/K2TbAZvScM6AIPAhvQXD-0cVVHn2NGHOKMiE-d6McZGwTYy3Qeu7kx-P2D1_hM2u6wsNwSxkavwDA0XYBKyTGA=w526-h296",
+      "https://play-lh.googleusercontent.com/zBhSxYFkQK0ufGzQ4Z7LZ97XUhfwTLc_0UJNq8-aW3O0WUXT5a5NTO8q-3KYMEcJTlPAH_mRZHyTjHz_gAHWWw=w526-h296",
+      "https://play-lh.googleusercontent.com/MpkfL8_WbLjUIjCg8i2KX6PMKpvwg8NmXZnwQR6AMWiniz-CLRLqpa_9RoxgOmP8fEj0KGJoLkl2XCm4lIH8DA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.tapaway.cube.puzzle.game"
+  },
+  {
+    "id": "com.poder.tapaway.puzzle.game",
+    "name": "Tap Away - Puzzle Game",
+    "slug": "tap-away-puzzle-game",
+    "icon": "https://play-lh.googleusercontent.com/8yT3Ajyi22F9VRebfA9j1GWwUoedN3M6YYWurL0vepao2OvGfR2cuAYz4wNTBMV_lYs1L0wHCaae1OE8_j1sfQ=s256",
+    "desc": "Relax your mind, relieve your stress. Tap a cube to move it by the arrow direction. Move all cubes to complete the level. But the blocks will only go in one direction, so make careful planning and strategic thinking. As you progress, the blocks form different and bigger shapes. Swipe to rotate the shape and choose your next move. You cannot move a cube if the front of it has another cube. Unlock all the challenging levels. No time limits to release the box. Customize your color bricks with different skins and themes. Relax your brain, perfect time killer. Challenging yet stress relieving and satisfying Puzzle Game!",
+    "short": "Relax your mind, relieve your stress. Tap a cube to move it by the arrow direction. Move all cubes to complete the level. But the blocks will only go in…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/zdWNDrGAv_J6kJULqVIMovKqmaG1q8O5jf5Cgzj8dc6MNyZA3q8z3u9_dE0UwsKH53gfU1MIYuGk4vdjCpP3lQ=w526-h296",
+      "https://play-lh.googleusercontent.com/8eoAsgHC_8eVXIY51BYLpdGfoRGhkhGP7GKbwOJqyyf5_Qk7ayCxFWrmv3FkV7O4lvltccizpcKzQNpD5Rd6bQ=w526-h296",
+      "https://play-lh.googleusercontent.com/i1ZBI54PeUAEBcMf9vE1tAX7A9c2bD6Xa32GFGU6SDnWA-HXadF1NsgUafR2w3mGgLcnEaj9wHSX0g2Tj2rKkAE=w526-h296",
+      "https://play-lh.googleusercontent.com/3PdOWS7Nv56dCEXDojbx2rxubIpc2uj8oIaLutHe8FFhGitze02ImueOVIlK2_BaphrKhdRl_i4j7lPXhX_S=w526-h296",
+      "https://play-lh.googleusercontent.com/NSXaN_aGWN1Pp6-Gd_yMp0IhIi_5WPD34gFvqen5zgNVQKgQj8mUd0uJ_gWvvvLD7f_2zXnSma7a4lnidqMiweY=w526-h296",
+      "https://play-lh.googleusercontent.com/7uTOubG7kFC1R2hhc9w51rnPRxH6whdjfAbsKcwPz0RO2xUIEVxxuSUautZkLzdowNiZQHghsDMLKRII5328Wg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.tapaway.puzzle.game"
+  },
+  {
+    "id": "com.sky.tap.block.away.master",
+    "name": "Tap Block Away - Tap Master",
+    "slug": "tap-block-away-tap-master",
+    "icon": "https://play-lh.googleusercontent.com/ww7IeX1rszeLhMAnA3-jwTLXCIkYD6FTsXDidM0aS4C9nj3dhnPQOvzqP5_LnnphLrH_lrYPnIKiAYrfYF9AZA=s256",
+    "desc": "Embark on a captivating journey with Tap Block Away - Tap Master, a dynamic cube puzzle game that challenges your strategic thinking and precision! Master the art of tapping as you navigate through intricate levels, clearing paths by tapping blocks in the direction indicated by arrows. Use the block rotator to manipulate groups of blocks and overcome complex challenges. Enhance your gameplay with boosters like bombs and hammers, essential for tackling super-hard levels. Every move counts in this ultimate test of problem-solving skills, where you're limited by the number of taps. Compete in the Level Race, aiming to conquer levels faster than others to earn rewards and showcase your mastery. Engage in 3D Daily Challenges, where you clear cubes to create stunning voxel figures, adding a delightful twist to traditional tap away games. Rotate figures to find optimal solutions, adding depth and strategy to your gameplay. Enjoy the game anytime, anywhere with offline play, and personalize your experience with a variety of block skins. With an infinite number of levels, Tap block away - Unblock tap out puzzle game promises endless satisfaction in solving puzzles and mastering challenges. Whether you seek stress relief or want to boost your brainpower, this game offers a perfect blend of entertainment and mental exercise. Ready to test your skills? Download Tap Block Away - Tap Master now and immerse yourself in the addictive world of cube puzzles and strategic tapping!",
+    "short": "Embark on a captivating journey with Tap Block Away - Tap Master, a dynamic cube puzzle game that challenges your strategic thinking and precision! Master…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/DBbozeUXwvcMuzE-nKfgjjD4X8mNzsf7g85Ev-u-LNdSEWTz3WdB6kc09kM0JgdAQF6-gEqZFoQZ1VrkoflU0w=w526-h296",
+      "https://play-lh.googleusercontent.com/WxvMa1P1SfUN8XSIdFJjx3qpJwcYdWFJ3aJrwEbzNgFHh61U4ElFwmkEPxhHaXj1iaQYbRCse7y4FHnTg0oa=w526-h296",
+      "https://play-lh.googleusercontent.com/wWGCUhN9ca2rIOSdxJh7ERTqad9MLgZoxX5uHkZUO9kPueb3PWHgFlHxPwfkGbI9yBCOp8upLDq_J38Myu9c7TU=w526-h296",
+      "https://play-lh.googleusercontent.com/0HhRbl-WvlkKUaAzh81SL7T-AxKEwzjLpeyespolc7YeN-aK7Ave6o-OgsssiS6fBrvUrbLib72tqmbKhstGGg=w526-h296",
+      "https://play-lh.googleusercontent.com/fwTOCwX1CWoXKNTJMya25eNDhY7SGrEBNDQ4kto35p7AgAioElbGJyjmM00EEl9cHbtXZatxNg3zKXm9l6Xwjg=w526-h296",
+      "https://play-lh.googleusercontent.com/xPVsk07LtfxwkH-YtSZp8z3rxWh2OOLxFlAP0ejEuaoTinFHCV0EUWsZepGAAerIQi2amnqmoX_M-_8609d-=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.sky.tap.block.away.master"
+  },
+  {
+    "id": "com.poder.tileconnectpuzzle",
+    "name": "Tile Connect - Matching Game",
+    "slug": "tile-connect-matching-game",
+    "icon": "https://play-lh.googleusercontent.com/g4bTxqzJjf1tXV0Vle7wjsKLAFHYFnKRBZipA40cWhg7Lndj10F1DIkwPpbQL0n6DXt5kydEhBExFy_fGhDoSg=s256",
+    "desc": "Connect tiles with a great number of pictures in pairs within the time limit. As you crush all the tiles on the board, you can win the level! Become a tile master level by level! Play faster and faster to train your brain with the link puzzle Game! Ready to fully enjoy the collection of various pictures on the tiles: Fresh Fruits, Cute Animals, Delicious Cakes, Cool Vehicles, Beautiful Clothes, Lovely Toys, etc. Hundreds of new exciting levels are added every week! Come to match and crush tiles in the Mahjong puzzle game! Key Features of Tile Connect - Puzzle - Various pictures on the tiles: Thousands of pictures randomly appear level by level! Crush them as many as you can! Match fruit pairs, link animal pairs, connect number pairs... - Easy to play: Tap the tiles and connect them as fast as you can! - Play at anytime and anywhere! No matter you place, Tile Connect helps you relax and exercise! - Tile Match is one type of educational game. This free game will power up your brain and increase your memory speed since it offers tons of sweet and cute combinations. You can experience and enjoy with tile connect - brain game (mind game), which is simple to operate and can exercise your brain teaser. How to play Tile Connect Puzzle? - Find two identical tiles without the block of other tiles! Look carefully at what pictures it is. - Tap the tiles to connect with maximum three straight lines! More than three will not be accepted. - Use Power Search: Help you find one pair! Exchange: Help you change the matrix of the tiles! Changing pictures: Help you change the whole category of tiles! - Crush all the tiles within the limited time! Keep an eye on the timer when connecting. - Pass level one by one to become a tile master! Play with your friends together to see who is the best! Now come to play this puzzle game, Tile connect! Prove you are a tile master at connecting tiles! Hope you have a wonderful time playing!",
+    "short": "Connect tiles with a great number of pictures in pairs within the time limit. As you crush all the tiles on the board, you can win the level! Become a…",
+    "genre": "Board",
+    "genres": [
+      "Board"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/LLA4SXE31dzPHYvoShJDSaopc0nAcwyxpk_-ef9yz_fSf63KIAcG9G-sHhIVWoAZyJkiiBGtDG5zt9Gmee3wb50=w526-h296",
+      "https://play-lh.googleusercontent.com/LDVfdtUeHyMHLxXDWVaV9e6sBS7KJOQl73rdTZnj2hkK-kHuEvd81pCqwGf7QF-cxKwGo6AiTr_eAMeIE2-v3Y4=w526-h296",
+      "https://play-lh.googleusercontent.com/u-GFgiULll7LQ_CA4_szXS0q1teTNO-tu-vZReI5_PxaFxawJjJ4QAI_d0gd_VfW9RkanCslXe_5OPucDID_Xw=w526-h296",
+      "https://play-lh.googleusercontent.com/KreGu4qt3Ixh2PB9HJlFQdWSKF0-bkFMAyOrN2mxyu7XtuoPbVQ0Pyu_nRfOwQ__LPW3O1YWcC6rzCnq0OoX=w526-h296",
+      "https://play-lh.googleusercontent.com/nMHKFThKIiiUptWg6YQkaaJZRaen80N42yzwxS3WIc_lSm1X3aCA_YGsVtQIRW8WrWtnM7lQv5we0RMmbmBNhQ=w526-h296",
+      "https://play-lh.googleusercontent.com/18osfEigDSMHGQCgZMD65CWPtkHRB1O32yPsXj3VRqgOcrCLhESS_ED6hANa2psrwSif4EAZVIIaSSJ36bSJFQ=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.tileconnectpuzzle"
+  },
+  {
+    "id": "com.bhrigu.trafficjam.car.escape",
+    "name": "Traffic Jam - Car Escape",
+    "slug": "traffic-jam-car-escape",
+    "icon": "https://play-lh.googleusercontent.com/dGanweIZpjd6yYD1IV1fT-8F75yesAKDsJBSVc87tIoDppVpXmDMJrh01pCWfEGNbB4jS-n1xXStSNRQ1CDzIA=s256",
+    "desc": "Traffic Jam: Car Escape is a challenging 3D puzzle game. Tap to move cars and escape from the traffic jam! Traffic escape - Move all cars from road and go next level. But be careful, don't hit! Just choose the right car to move, so take careful planning and strategic thinking. Challenge yourself in thousands of traffic jams with car game. Unlock all the challenging levels. Improve your critical thinking by solve traffic jam quickly and smoothly without crash. Challenge over 3000+ levels, and more. Colorful scenes, decorate your parking lot. Unlock cool cars and fill up your garage. No time limit, no internet, just unblock cars and relax in this car escape. Are you ready to test your puzzle-solving skills with Car Escape?",
+    "short": "Traffic Jam: Car Escape is a challenging 3D puzzle game. Tap to move cars and escape from the traffic jam! Traffic escape - Move all cars from road and go…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Bhrigu Apps",
+    "shots": [
+      "https://play-lh.googleusercontent.com/gNplyp5SE8mYj23kqiSfZG_zxH-dROSDUg-4e9YwcNOCWlo92968DW2PFxdZi_7MTEJImHmN67lHGIC5mFEc=w526-h296",
+      "https://play-lh.googleusercontent.com/fzaooqnJc5CVY5qCWv3A55fOSSOpZoaJMO9GY6H-QwS2RzOx5iTntq00gFdWxAlxiQOpsSCOjQ9h-PosR_A6uQ=w526-h296",
+      "https://play-lh.googleusercontent.com/-hoHQKekjJiuECUxORTKMHX9RQVtCDHN09q1R0m7105NvJ88zBLilYg8pQCkMhFDK0S7vhfJpAFfXVp5c55FmQ=w526-h296",
+      "https://play-lh.googleusercontent.com/dkKo_5HUQSuoh5iW_ZCIALg9rm0bFOG8xdx1xgdOfQy9ag8j587DNd22jxEgtPNZ4CxhDbdoHUeRn0Il13-dHQ=w526-h296",
+      "https://play-lh.googleusercontent.com/Icjx1iVbyZYhy2epctRLyXIg1R0aoTDzZJTNkLaSQNL21BmLI6DZMiYkFvqNokjzU8ERSGps7zTroFCvXjzO=w526-h296",
+      "https://play-lh.googleusercontent.com/5W9nBksH_JSOe7e3eZCvU36gkzk4UD6DOube5M6pzqK_zq54I2MKTUk-vnccCoswRGkyF9VbFbAzQYCHIpEPSg=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.trafficjam.car.escape"
+  },
+  {
+    "id": "com.poder.tile.match3d.master",
+    "name": "Triple Tile Match 3D Master",
+    "slug": "triple-tile-match-3d-master",
+    "icon": "https://play-lh.googleusercontent.com/bb3lTSsMIk5-QPvp_jeYLFLOAiBy6fmLfxcCOU8mTzecZdip66-wumAFMlhKDSDF5YMROJVr2aIReMBwlKnhWQ=s256",
+    "desc": "Triple Tile Match 3D is a new and beautiful free matching game and enjoy awesome levels and fun challenges that will entertaining for all ages! By finding & matching 3D items in a limited time, you can power up your brain and speed up your thinking process. Hundreds of cute and diversified 3d combinations are waiting for you! Solve 3D tile puzzles. Clear the board by matching 3 tiles. Unlock beautiful chapters with the help of boosters. Improve your sorting skills to become a matching master! Spend a relaxing, fun time as you find and connect tiles and complete different missions. Looking for a fun way to enjoy a long car ride? Why not spend your time playing a cool Zen match game? Grab this amazing triple tile - mahjong puzzle from the store and start searching for hidden objects today! How To Play Triple Tile Match 3D: - Pick up three same 3d object from a pile of messed-up items and eliminate them. - Pay attention to the collecting bar, do not fill it up, or you'll fail the game. - Use boosters to help you quickly finish the level when necessary. - Keep doing that until you clear the whole screen & win the level. - Then keep having fun & start a new level. Match 3D Game Features: - Unique 3D game with beautiful tiles. - Easy to play. You just need to drag & tap! Addictive and sometimes needs a strategy. - animals, plane, cool toys, food, cars, fox, fruits... in different shapes & colors! - As you go further in the journey of being a master in matching 3D items, you can unlock new items one after another, which will definitely surprise you! - HUNDREDS OF PUZZLES: Well-designed brain trainer levels, beautiful 3D elements. - The best time killer when you want to relax. - Suits for all ages. You can play it with kids, friends, parents... anywhere & anytime you like! - Surprise cute items Pack are waiting for you! - Play it OFFLINE/FREE at any time, anywhere either on mobile phone or tablet! Match Master 3D is absolutely an addictive strategy games that you must fall in love with once you play it. As a board game, this matching 3d game is simple & entertaining for anybody to enjoy! Try the free triple matching puzzle now! Level up and grow to be a master in finding & matching elements.",
+    "short": "Triple Tile Match 3D is a new and beautiful free matching game and enjoy awesome levels and fun challenges that will entertaining for all ages! By finding…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/Gjd9-0nVDrizz01I6iTqBG9Aw1wHPqwonvYK0Ulrw2Hp30mD2WwYov7e7mM7zgSH5bsnCjbmH9g52BEwYFik=w526-h296",
+      "https://play-lh.googleusercontent.com/kDijh4ccu75yqFrVfDeqFVsClQxkFN235pSP-qJXigYlWWbkl0ipkFq4d5ikzYzYkVVGakfPEyAGu40X4bIw=w526-h296",
+      "https://play-lh.googleusercontent.com/7O1lgh6XiF8vcjrFFB-ncaGovRW4yvvGAa00XPoEQQcLZuI1vifHoQE5IJx1j_hFPumNA3tNNcFBoRyNBFg5Ig=w526-h296",
+      "https://play-lh.googleusercontent.com/YN5mkRDFh_XpIf1ksKE0A2guZL1FqXQtXdIJgs4Q9sURxj1daRxxmQKZQPJ5xJi9C7i0Ru5tfhsnlsqdBcg_rA=w526-h296",
+      "https://play-lh.googleusercontent.com/mUByIvs02nI3M2RIZupMC9Tyh4fdCHruEnIkT0d5Hdr7DywQwX5dNIRsFOlDM9L_EHobdwCqGbuxPm_YMS8ODw=w526-h296",
+      "https://play-lh.googleusercontent.com/Bt4gWYBpcmYtrPwcRp7z0sLY5bWnWegd3EwOga8af30HIPjsDz9MuuSpK3HffTDJN8hWCfWn-407u93QfeJC=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.tile.match3d.master"
+  },
+  {
+    "id": "com.bhrigu.truthordare.party.games",
+    "name": "Truth or Dare - Party Game",
+    "slug": "truth-or-dare-party-game",
+    "icon": "https://play-lh.googleusercontent.com/5eyPZOmyNP7H5wnK-VryRFQxf4M5XNdK_wzhqoT5SoWK3dJuZyN0SWPWwi0u_ZUc6H5aXJe5GyIxiU2mQpYV=s256",
+    "desc": "Truth Or Dare: Party Games Play with Friends — Elevate Every Gathering!Transform your boring nights into legendary memories with the ultimate social experience. Whether you are at a house party or enjoying a quiet hangout, Truth Or Dare: Party Games Play with Friends provides the perfect spark to get everyone talking. The app makes it easy to explore a vast collection of prompts, ensuring that the Truth And Dare Game never has a dull moment. Truth Or Dare: Party Games Play with Friends is designed to help everyone feel comfortable, start conversations, and discover new things about their closest companions. 📄 Key Features of the Ultimate Party Game: 📄 🎲 Access more than 1,100 unique prompts instantly; 🎲 Choose from four distinct difficulty levels: Fun, Soft, Hard, and Extreme; 🎲 Explore specialized categories for Spicy Truth Or Dare Couples interactions; 🎲 Enjoy smooth Spin The Bottle Truth Or Dare: Party Questions gameplay; 🎲 Try the Dirty Truth Or Dare Adults mode for mature audiences; 🎲 Take on Freaky Truth Or Dare Game challenges for the boldest players; 🎲 Manage players and track scores in real time; 🎲 Enjoy hours of play with battery-friendly performance. Unlock Endless Entertainment with the Truth And Dare Game!The Spin The Bottle Truth Or Dare: Party Questions system provides a fair, randomized selection process that keeps everyone on their toes. Users of the Dirty Truth Or Dare Adults version can enjoy a more provocative experience. Even the shyest participants will find the Truth And Dare Game easy to join and difficult to put down. Deepen Your Connection with Intimate Modes: ⚡ Spicy Truth Or Dare Couples settings provide a romantic and thrilling way to bond with your partner. While many people settle for generic entertainment, those using Spicy Truth Or Dare Couples can discover new ways to communicate and explore their relationship. The Dirty Truth Or Dare Adults category creates a mature setting where secrets can be revealed. With the Freaky Truth Or Dare Game features, you can reveal a side of your personality that you have never shared before. Smooth Gameplay and Worldwide Fun: 📞 The game becomes even more exciting when Spicy Truth Or Dare Couples prompts appear during date night. Truth Or Dare: Party Games Play with Friends runs smoothly without lag, repeated questions, or boring filler. Create lively social moments by activating the high-energy Dirty Truth Or Dare Adults mode during your late-night sessions. Test Your Courage: 📊 Freaky Truth Or Dare Game users can easily challenge their friends according to the intensity of the prompts. Built-in category filters help users gauge the mood of the room. Scores are tracked throughout each session. Users can enjoy a tailored experience because the Spin The Bottle Truth Or Dare: Party Questions logic adjusts to the size of the group. Don't Wait! Download Truth Or Dare: Party Games Play with Friends and Start Playing Now!Take your social life to new heights with a versatile party app. Smooth gameplay for Spicy Truth Or Dare Couples and the variety offered by Freaky Truth Or Dare Game come together in one place. Activate the Dirty Truth Or Dare Adults mode with one tap. Discover the modern and engaging way to socialize that this Truth And Dare Game has to offer.",
+    "short": "Truth Or Dare: Party Games Play with Friends — Elevate Every Gathering!Transform your boring nights into legendary memories with the ultimate social…",
+    "genre": "Board",
+    "genres": [
+      "Board"
+    ],
+    "dev": "Pipi Chick Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/hfSd27GwRizzeDiyPNQ6oHebbEMA0u8Zmhv39WIKm6HUumlGi3rjywNHzz9Ubg_5DB4GWrW7-SYppxOtq6HOAj4=w526-h296",
+      "https://play-lh.googleusercontent.com/lhcaIUCPnLtK4_O2J7vIYxsNrVppYfi1h6DExvxbPGTSldwd-P0_gHFaOff75oASCUm53oWSDZhgUlrhxJDIig=w526-h296",
+      "https://play-lh.googleusercontent.com/CyRdULY6fATljwv4XZ9AlmA49K7ViUYrls4uS7OtpF_YfcoEHakT4ijS9GNGtfBBcacZb_eEEoNMxpE0ZT1S6A=w526-h296",
+      "https://play-lh.googleusercontent.com/FLoW5H5_xtKJbOkVNJopYaoPK48uCSpXkmcgdFwUxr-GBDvCfJmfrdP_ZzqYoRQKzpv5sxvwMPqUH5bNnlR2QKY=w526-h296",
+      "https://play-lh.googleusercontent.com/NVi8HfFyaO390GqvzZy2apxQckDsIx0vQGjXzGe7D9E-03ljR64mru4jzoTs5I_rJjVK39y-JY3C4iqjsIuBtg=w526-h296",
+      "https://play-lh.googleusercontent.com/a6V6z9kxeOl5LG-jIpugYtsymQrSbuzhKZHu4dZWIk8nKUTqjY2sm9d-dU2ZrycEc0Y-u8niGRU1Fsc9n4rRJxA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.bhrigu.truthordare.party.games"
+  },
+  {
+    "id": "com.poder.unblock.car.parkingjam.puzzle",
+    "name": "Unblock Car : Parking Jam 3D",
+    "slug": "unblock-car-parking-jam-3d",
+    "icon": "https://play-lh.googleusercontent.com/dLwACoKLCB93Lid4drPJS72YWirBTh6U5t3XdcGjgVdRsvsupfZntk6Sz63nbIioY44I8jqrJ7ZBW9e1WV3Pmg=s256",
+    "desc": "Are you ready for a challenge? Take out the car in this parking puzzle game. Move the cars inside the parking lot and unblock car traffic jams. Clear up the traffic, find the way out and exit the car parking lot. Relieve stress by solving real car parking puzzles and removing the road blocks in this car parking 3D simulator game. Slide the cars and exit the traffic jam inside the car parking lot. Keep calm and become the car parking master in this unblock car game. In this cool car puzzle game, you challenge your logic skills, critical thinking, and timing precision. Features • Hundreds of traffic puzzles to solve! • Play the full puzzle board game offline. • Smooth and beautiful animation. • Get new traffic puzzles everyday. • When stuck, Use hints to figure out the answer. • Beautiful scenes with colorful cars. • Unblock the traffic jam and be the park master of from a novice. Find the correct parking spot for your car in this traffic game. Solve the car puzzle and become the car parking expert in this parking master game. Come enjoy the best slide puzzle game! Move the cars in the correct order and overcome the obstacles in this parking jam 3D game.",
+    "short": "Are you ready for a challenge? Take out the car in this parking puzzle game. Move the cars inside the parking lot and unblock car traffic jams. Clear up…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/Ou_1Lud8NdkpqOHq0APQjo0zWPwD6dJI-ZP_LL9TIpD-McIlVHlp4Q0TAVvdiS4vRPqh0DjsM652qJ4bHU01=w526-h296",
+      "https://play-lh.googleusercontent.com/9T6rpaYMVC3Gzxy1K2f2EQ7I1wJrPIo6LFm2B4FkMeMwowBtR25Hvy5Rti8vSUebbEtM4iYz14CIdAFPOe7NNw=w526-h296",
+      "https://play-lh.googleusercontent.com/6EB7kF0rzVTAcNZq5Aka9UW61PmT78BIy3U8Mhb8ND2O8tTE5QwKYeuTr2fXFVJjcwKeBBfNu8gVnUOGBZa8DQ=w526-h296",
+      "https://play-lh.googleusercontent.com/X8FegmVbE63uE2bhMLfY68cH-gK65blVU0e7l_A7IV2oTytG_i7ALNbCCNDiNAD7GqRMlRyMQQqXwe2Y5YSGtA=w526-h296",
+      "https://play-lh.googleusercontent.com/fPsS16vgG3gYlUS_kNOA-a-jyRqwnbw3RNoZ_kr17HWxYqIzvi9Ii2K5zx6hpkzxi_e4tac1Ijqlcg5RVOqXxw=w526-h296",
+      "https://play-lh.googleusercontent.com/wkpYF-VDJTosihfmX2dG56E_49Qd-Y5qmHbDQYrcTvddkX-CbEedeRN8WGAtm9-PtTBbe-UrJlURN-D-3H27EnA=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.unblock.car.parkingjam.puzzle"
+  },
+  {
+    "id": "com.poder.watercolorsort.puzzle",
+    "name": "Water Color Sort : Puzzle Game",
+    "slug": "water-color-sort-puzzle-game",
+    "icon": "https://play-lh.googleusercontent.com/qSkori0v2bq1daAOUUmgiOezIuo1VjK3x9aN7RlC8QZRfLsP6I7eFhigH5J3OtYdG5_Y0a4OXXR9OysuoSHU=s256",
+    "desc": "Water Color Sort is a fun and interesting addictive puzzle game! Try to sort the colored water in the bottles until all colors are in the same bottle. A challenging yet relaxing game to exercise your brain! If you’d like to train your sorting logic, this water sort puzzle game is just for you! It’s the most relaxing and challenging puzzle game, and it’s not timed. How To Play Water Color Sort Game: • Tap any water bottle to pour water into another bottle. • The way to pour is that you can only pour the water if it is the same color and there’re enough space on the glass bottle. • To complete the level, one bottle must have single color only. • If you get stuck, you can add one more bottle to make it easier. • Use Undo to go back to the previous actions. Features: • Completely FREE to play • Play with ONE finger only • Multiple game play THEME • Multiple bottles SHAPE • No TIME bound • UNLIMITED levels! • UNIQUE & user-friendly interface • Free and CHALLENGING game • Water Sort Puzzle is a great game for the whole FAMILY to play together. Get ready for more exciting levels of color water games and test your intelligence by solving this color sort puzzle game.",
+    "short": "Water Color Sort is a fun and interesting addictive puzzle game! Try to sort the colored water in the bottles until all colors are in the same bottle. A…",
+    "genre": "Casual",
+    "genres": [
+      "Casual"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/KIh3fj8jj1tQn_gv3BlfSiA2IGV2REZwdfJVVTw8qBYUgPP7qS-1v8B0hxhRelBctHnfiUnQxITYS6_4EwPp=w526-h296",
+      "https://play-lh.googleusercontent.com/SjBrv3yU6GxnLr8Dy3IzMziP6lhdlfaN4yWb6jfOcsw-sxqMQ6wHYnDqoGxcNoZlg-LOdh18pSeOueJV5YG7=w526-h296",
+      "https://play-lh.googleusercontent.com/ygJgX-IIRlKse18sZSeJ8525hs50S_xhf6lyWbqaHLxngV9iXFQ0jdX_Yk0Qtu36Oh4Jq-f2XwTnfukuwrR9EA=w526-h296",
+      "https://play-lh.googleusercontent.com/1OA7QJRvbcWlT56R2Q_F_v2Bt-sd9YTQOZQc6fIlABJRmf-SlUNigAHjtxkopvLWezHUbgQdVk4WJ8cnKtk3_3E=w526-h296",
+      "https://play-lh.googleusercontent.com/JFh1a08I2kWzOUi-cc4lh3DeV6G_jMfqG91DdvUiidTj0W70PPCcvkgbSeHVhyjB4H9Wn4rlp_LIRcPHgFJi=w526-h296",
+      "https://play-lh.googleusercontent.com/7EuM9c9h4YgjOr1I3BWIlBN_hT3oNrPk42heMlFdEKWCmuXZCu7WsTxIQ2-a414RDAW4paYmo0kjBRxy7R6PgPs=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.watercolorsort.puzzle"
+  },
+  {
+    "id": "com.poder.puzzle.blockpuzzlestarfinder",
+    "name": "Wood Block Puzzle: Star Finder",
+    "slug": "wood-block-puzzle-star-finder",
+    "icon": "https://play-lh.googleusercontent.com/vF3XluI3uWrcZunmXVcW1sfCre7fI_0zkD4yWRP4AmKawtzYUimY2L0SVfKDfXbVMdHMHRLF1ZwCWB3uofoH=s256",
+    "desc": "Wood Block Puzzle Star Finder is an exciting line completion game using colorful wooden blocks of a wide variety of shapes. Use the wooden blocks to complete lines horizontally and vertically or 3x3 squares. Lines disappear upon completion. Simple easy to play, Match blocks to complete lines and cubes to get them removed. Keep the board clean and beat your high score in a Block Puzzle! Test your IQ and win the puzzle game! This simple block game will test your spatial intelligence and geometric skills! Block puzzle improve your logic skills and refreshes your mind. 🌼 How To Play Star Finder 1. Drag the given blocks and put them into the grid board 2. Obliterate the blocks by forming full lines horizontally or vertically or 3x3 squares! 3. Rotate the blocks by using power 4. Remove multiple lines at a time to score higher! 🌼 Block Puzzle Game Features: • No Internet? No problem! Enjoy anytime, anywhere! • Free to play! • Complete daily challenges and get more reward • No penalties & time limits! play at your own pace! • Stunning graphics! Catchy sound effects with mesmerizing visuals Challenge yourself and train your brain with block puzzle game. Let’s play Star Finder!",
+    "short": "Wood Block Puzzle Star Finder is an exciting line completion game using colorful wooden blocks of a wide variety of shapes. Use the wooden blocks to…",
+    "genre": "Puzzle",
+    "genres": [
+      "Puzzle"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/n8eg5DsWTsq44gcLKjTFpoVTI-BwxQhG36aeRp6pGLpjwz_I7uU-hypfp4i0zkG6ofWw0FVtgWtKO4SfMrzj=w526-h296",
+      "https://play-lh.googleusercontent.com/mPdSIWizo_BSZkwEBdeWSb_rlJXS9uwRJWXpOGdV3aNj8l3-DV2ABq66wJq5LxbcicMg6EEPQi8PdapeTiUUuQ=w526-h296",
+      "https://play-lh.googleusercontent.com/S-TDvRe19_JONaXGlw2kDJTEbtZ0nSgUFB3vYD-zwd9BgJDsxQqlWoBLHR8cawNn3maGJG_R1FR9J2C7XizYTEc=w526-h296",
+      "https://play-lh.googleusercontent.com/r4vaxGaMUSSZDz-Cw0Kp-EYgIhA-L6TQLsoLJAQT6HlKg0Mzo8zgi6Em8caFgWpfIlGi5EiFCS6mKcSM7i1gdg=w526-h296",
+      "https://play-lh.googleusercontent.com/GM2kfK8VrUtOUKq1n7u1A5srGYCiedu2s5XHsHbr641z5khdASBJdh4Q0LqsvtjMgkKuSJGYXNuER5eqLEgU3Q=w526-h296",
+      "https://play-lh.googleusercontent.com/vivhHrd7DmB61ETmwRvamGlReF2auoXAM9uphtmLMet3yk20HcOxmszrna-9KFltPEnPjRcNTj6lakaFl1WWhw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.puzzle.blockpuzzlestarfinder"
+  },
+  {
+    "id": "com.poder.wordconnect",
+    "name": "Word Connect - CrossWord",
+    "slug": "word-connect-crossword",
+    "icon": "https://play-lh.googleusercontent.com/FmcqF-cYBF-X8BmVMUh-cZ3tzx7SJ4ZYN9p-9SLHHsq39ycvBK-QroChn1JTBiANzSq2Limf-jWL0zrCBSpmRA=s256",
+    "desc": "Word Connect - Crossword: A word search & word guess brain game. Word Connect is a fun and relaxing word game in a crossword format made for brain exercise. 10000+ challenging levels. Swipe the letters to find and guess the hidden words in a crossword grid. Word Connect can inspire your passion for brain challenges. You will have fun improving your vocabulary and spelling skills with the best word puzzle game! Exercise your brain and find all the hidden words now. Test your vocabulary, lateral thinking, and puzzle-solving skills. If you are a word game lover and like to play brain games to improve your vocabulary. Word Connect - Crossword: is the perfect choice for the best brain game lovers! Start Your Word Games Daily Brain Training NOW! How to Play: - The rules are simple. Search and swipe the letters on the plate to guess the hidden words - Find all the words and fill in every block with a word to win a game - You can tap the “Shuffle” button to change the order of the letters - You can tap the “Hints” button to get clues - Collect extra words to earn bonus WORD CONNECT FEATURES: - Free crossword puzzle game - 10000+ challenging levels in the word puzzle - Daily bonus rewards - Beautiful game themes - Play OFFLINE in anytime and anywhere with no time limits - Supports both Phones and Tablets - Word Connect puzzle is free to play, but you can purchase in-app items like an ad-free account and attractive packages. Word Connect game is designed to train your brain and learn new words with countless puzzles all while having a great time. Share the fun with your family & friends and enjoy Word Connect together!",
+    "short": "Word Connect - Crossword: A word search & word guess brain game. Word Connect is a fun and relaxing word game in a crossword format made for brain…",
+    "genre": "Word",
+    "genres": [
+      "Word",
+      "Casual"
+    ],
+    "dev": "Poder Studio",
+    "shots": [
+      "https://play-lh.googleusercontent.com/OKDXY0LJMnwfh3p5FbzvuEz2ghcKY79KdEq7MA7wwHpoTCl900NSJdd3Dx0WvyNT1aX7kh1VZY8C8a_IN6NYqw=w526-h296",
+      "https://play-lh.googleusercontent.com/VtljEg62VjoAEoWdSgfJN0yHi3Vctj0P3Y_h65c19nZrhqlm5RJhvfAEqK3plF2jfG4AO-CKkaSNyboYfZ2SjA=w526-h296",
+      "https://play-lh.googleusercontent.com/TJYgqQTXdEXHQpYCS5oAdFRnAEmpfNpsmdo4Q464FZO25agAhy_zQxDGVQsnVgco8LAJ0km50vt_R0GMKd0e=w526-h296",
+      "https://play-lh.googleusercontent.com/h37L6FRZ4C8bwas2RicmRZNdcwwoXCSdcR7KmazOmluHXaPN_DBBzx1bOJg95ij00rBeVJr5c-LYDHlohzypCQ=w526-h296",
+      "https://play-lh.googleusercontent.com/ryi8JiOOhgxW2zW3WP_0TEnVTsHGdwUk_SjG9bODgpAnjCOrzN0mdvhNiS0vLKVEknQrOu19qyn_Wlnrf_Rd0YM=w526-h296",
+      "https://play-lh.googleusercontent.com/gR2lMT5QwEzZ5UiEbCenJLgtBZ11tRa3V_m5JzlQlVcIn_15z4dXEettl5A7cFvhGv84wrEYprq1Z7EVuYAxTw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.poder.wordconnect"
+  },
+  {
+    "id": "com.skyfallapp.word.maker.search.puzzle",
+    "name": "Word Maker: Word Search Puzzle",
+    "slug": "word-maker-word-search-puzzle",
+    "icon": "https://play-lh.googleusercontent.com/wCh-lFpgigmenW1HqGOSvJ7IM6e0XwUwzrNlLzBgtSsd6M5mqI8ksd3CbxWvKTRfyEMdyonLUIPPWnQfK5wTaQ=s256",
+    "desc": "Free word game to sharpen your mind, relax your brain, and expand your vocabulary at the same time. Word Maker is mixture word search and word bubble. Game of Words offers an incredible 5000+ levels of word games for adults and younger players alike looking for brain training, to improve vocabulary, or to simply relax and unwind after a long day. Try this challenging Word Maker today and put both your spelling and grammar ability to the test. Use bubbles to connect words and solve the puzzles - beginning with simple word scrambles and progressing to word puzzles containing 5-bubble words, you’ll soon find yourself focused and relaxed. If you are a word game lover and like to play fun brain games to improve your vocabulary or simply enjoy word search games to casually tap on bubble and guess the hidden words, Word bubble - Word Search & Word Guess Brain game is the perfect choice for the best brain game lovers! HOW TO PLAY? Simply tap bubbles to connect words and solve word puzzles! Word puzzles are easy at the start, but get challenging fast. Can you beat all the word puzzles? Start playing and find out! GAME FEATURES: ➤ Simply tap balls to connect words. ➤ New word puzzles make it a cool free word game. ➤ Challenge your brain and expand your vocabulary. ➤ More than 11000+ challenging word puzzles to beat. ➤ Easy to play, hard to master! A new challenge awaits for you after every puzzle. ➤ Daily word puzzles provide free word games and rewards every day. ➤ Play Offline or Online, enjoy the best free word game anytime and anywhere. Get Word Bubble now and start your word puzzle adventure! Sharpen your mind with the creative free word game.",
+    "short": "Free word game to sharpen your mind, relax your brain, and expand your vocabulary at the same time. Word Maker is mixture word search and word bubble.…",
+    "genre": "Word",
+    "genres": [
+      "Word"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/-K6Aet0U26dZryglI-p4gnysHhJfUG9V5QieVIipA-P4lOpIz0RPxSeqQ7mYRVBKo6k-SLvy9hyRZiUrYildX1g=w526-h296",
+      "https://play-lh.googleusercontent.com/E5ahi37HwRzo7QcX5C38bxnoIlBFe9lFiItNl3Qfnif4OSPj9TY64YiX2GAynFV2fcaGa34M0WTya1EomWRzQaI=w526-h296",
+      "https://play-lh.googleusercontent.com/IbRKQE-LavihMVpepyBuEyiIc9yx0uxkbCrkZEnFgwKWFk74NIhk11G64SLXnYHdqJ5f4qVgukhfUXO2H8PAaA=w526-h296",
+      "https://play-lh.googleusercontent.com/c6OXMBIlkJrLL6YfvOjQNPQVtJbFTtIo-3UsvhwZcJk0ovVZg_u4SJPxhbu2UvqX2jg5cBSugCApuVFRljJ6=w526-h296",
+      "https://play-lh.googleusercontent.com/32-bvTnTifLgA2maCZV4DTBgKdE1SDiNA_cglFh8tsul6vyDcfgPW-OxSlaeJeEqIsDNfZVEDsWBMY07NLiv=w526-h296",
+      "https://play-lh.googleusercontent.com/INy7dhIv3LpO9Kx3jdRHAGuFZk02M-MyRor1br-HC12IYZnM3z8cdoks7H7-7clllmFLgqy5bHICYzDPME_S=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skyfallapp.word.maker.search.puzzle"
+  },
+  {
+    "id": "com.skyfallapp.word.search.crossword.puzzle",
+    "name": "Word Search - CrossWord Puzzle",
+    "slug": "word-search-crossword-puzzle",
+    "icon": "https://play-lh.googleusercontent.com/Xr_P8X2b1B_N2B-vFMx66VAv0OLDkEgtau6NcdINSOfjFbj2HFcKiC_LEYja19Tini7STgGYjoUols2UZn_Psg=s256",
+    "desc": "The ultimate word find : word search game is here! Expand your vocabulary and improve your spelling skills by finding all the hidden words. Word Search is a fun and relaxing word game in a crossword format designed to exercise the brain. Word Search is a word game that consists of the letters of words placed in a grid. The objective of this puzzle is to find and mark all the words hidden inside the box. The words may be placed vertically, horizontally, or diagonally. Exercise your brain and find all the hidden words in word puzzle - wordle game. Test your vocabulary, lateral thinking, and puzzle-solving skills with word find game. Word Search Features: - Free to play - 1100+ challenging levels in the word game - Daily challenges to earn extra rewards - Use the Hints when you get stuck - Clear, Delightful graphics with easy controls - Word search games designed for all ages, kids, adults, and even your grandma! - Play OFFLINE: Enjoy the word search puzzle anytime, anywhere with no time limits Connect the word and boosts your vocabulary playing crossword puzzle game. Word search game is designed to learn new words with countless puzzles all while having a great time. Share the fun with your family & friends and enjoy Word Find together!",
+    "short": "The ultimate word find : word search game is here! Expand your vocabulary and improve your spelling skills by finding all the hidden words. Word Search is…",
+    "genre": "Word",
+    "genres": [
+      "Word"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/8dmMcAh3zyqIC9pQAtGQD8LGVzIM6WJWCIRtHr091SUFCXIG_PERrev9bJzBgX0kh46ul6LV1ak1_qjBwIU8=w526-h296",
+      "https://play-lh.googleusercontent.com/DyVBz3rQmqN07ZOoGdOrYGbuCiqmnuxSPg2d-cv9nvs4o-qNRe9fNDmrlUY0G6i7D2kIk9RrisDCa1V3Ygpq=w526-h296",
+      "https://play-lh.googleusercontent.com/aqaFGFsTxwXBmg24kXfEKJXVoRhhYE2kd3LR1yv35cHyBfcKgKK_oHAz9y2YOB8YfLsnez6Pf89wmQAcdUx4bVQ=w526-h296",
+      "https://play-lh.googleusercontent.com/3uh3HZ2ZpUGDsRjfRrN5hE8wQrraFuAj5Tk9Fsdb72Syhw3F7mN_H6QXfg5nUcJd24gdvu-ObV03jvDy-5vWB0U=w526-h296",
+      "https://play-lh.googleusercontent.com/GhoscP6Ay3Sh5oRV-2WngwFyka79st6H5U-CywhKvg-ij7dVLMnZDSVNpMHBeqDxfBzUzCc2-Z-9EQuQQcOEdg=w526-h296",
+      "https://play-lh.googleusercontent.com/-11XGK0_sDBJ_AhyHai1YxjyQqAWWyjdnw8bZIhXnG0dRHVSSLShRBwbIIJJZ7onuNTiyZnbwG-VR47-cvms=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.skyfallapp.word.search.crossword.puzzle"
+  },
+  {
+    "id": "com.kali.word.stacks.game",
+    "name": "Word Stacks : Word Search Game",
+    "slug": "word-stacks-word-search-game",
+    "icon": "https://play-lh.googleusercontent.com/9a-v2O0ava6rFGEdnWUMZ8N_ir634enMRI1VvBZ0iptjfV00pzCVd5cAKpeuW8wDnVPmYXu-eNHoctt-wsuDFg=s256",
+    "desc": "Word Stacks the daily word puzzle! Word game is in your pocket now, where you need to create words from the letters. Playing Word Stacks 10 mins a day sharpens your mind and prepares you for your daily life and challenges! ➤ Word Stacks is a word search - puzzle game, search and connect the right letters to get the correct word. Take on daily brain teasers and train your mind with our fun word games. ➤ Relax your brain with natural background and calm music. Take your daily medication and ease your mind while enjoying all the fun from Word Stacks! ➤ Word Stacks is a creative crossword puzzle game which can inspire your passion for brain challenges. HOW TO PLAY ● Swipe to connect hidden words in the right order and bring the Word Stacks crashing down! ● Use the Spyglass, Light bulb, or shuffle when you get stuck ● Get more hints with coins by purchasing or watching videos FEATURES ● Play over 2200 levels with more coming soon ● Each puzzle shifts as you find words. Word Search and Word Connect with a twist ● Earn rewards for finding extra words ● Beautiful Themes and Background ● Daily Challenges + Daily Rewards ● Totally FREE for all players - suitable for you to train word search skills ● No network required and you can enjoy word search at any time Word Stacks is a great fit for fans of crossword, word connect and word anagram games, combining word find games and crossword puzzles. Improve your vocabulary and learn new words with Word Stacks.",
+    "short": "Word Stacks the daily word puzzle! Word game is in your pocket now, where you need to create words from the letters. Playing Word Stacks 10 mins a day…",
+    "genre": "Word",
+    "genres": [
+      "Word"
+    ],
+    "dev": "skyfall solution",
+    "shots": [
+      "https://play-lh.googleusercontent.com/xrtl5KiLmhKXCmddPD9hBTRZ3uywQMjuFIsdgc3MzU-znrJQFOucfk5SSA0R38R4xeoOnKWCNjZ0yM8SoLPp=w526-h296",
+      "https://play-lh.googleusercontent.com/KdQ9b6zvGQXe9u47oZytOX2FS6BPpi5PIz9kz6KkmzrpooNnQY5p4ILOw5o5lYW43l8po596KjQCbm1amvxUgQ=w526-h296",
+      "https://play-lh.googleusercontent.com/svM6D5wmhqf8duYI3AeccU_YhFBfcHVseefGTQKNoVMqzE4sDbcCv6n0Co4cOoXP8aymciIfgJ-w3svb-GLPEg=w526-h296",
+      "https://play-lh.googleusercontent.com/nYi2cSjnq5pMBzrcCndE2z_NkXFrdWPHVfyetyeDrsY-tRW9ddr8p0yTn-2Bswx0vWFFsgi8NPIjYYAQzy86WQ=w526-h296",
+      "https://play-lh.googleusercontent.com/RSdCvA5vTviRwo6LaQr1dhXkIk2BjshASJCe72ggp9X9Z5cYQ8ZBl1SGpeLAAZencfQVOC3un9Ima7AxjJvu14U=w526-h296",
+      "https://play-lh.googleusercontent.com/jMJ0P4eyph-PNglZ7dF652y7ilBTtVR4XDS_yjVlX9D4LwQISmk78hapbdE9O_PslJTJ7BLwE96tcJyv2k-MxUw=w526-h296"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.kali.word.stacks.game"
+  }
+]
