@@ -185,53 +185,50 @@ img {
 /*--------------------------------------------------------------
 # Hero
 --------------------------------------------------------------*/
+/* Mirrors the `.section-title` treatment on index.html so the catalogue reads
+   as another section of the same site rather than a separate product. */
 .g-hero {
-  padding: 56px 0 28px;
+  padding: clamp(48px, 7vw, 76px) 0 clamp(30px, 4vw, 40px);
+  text-align: center;
   background:
-    radial-gradient(90% 120% at 100% 0%, var(--accent-soft) 0%, transparent 60%),
+    radial-gradient(90% 120% at 50% 0%, var(--accent-soft) 0%, transparent 62%),
     var(--surface-2);
   border-bottom: 1px solid var(--line);
 }
 
 .g-hero h1 {
-  font-size: clamp(1.9rem, 5vw, 2.9rem);
-  letter-spacing: -0.02em;
+  position: relative;
+  margin: 0 0 18px;
+  padding-bottom: 18px;
+  font-size: clamp(1.7rem, 5vw, 2.5rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: var(--ink);
 }
 
-.g-hero h1 span {
+.g-hero h1::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  width: 58px;
+  height: 4px;
+  margin-left: -29px;
+  border-radius: 999px;
   background: var(--gradient);
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
 }
 
 .g-hero p {
-  max-width: 62ch;
-  margin: 0 0 18px;
+  max-width: 68ch;
+  margin: 0 auto;
+  font-size: clamp(0.95rem, 2vw, 1.05rem);
+  line-height: 1.8;
   color: var(--body);
 }
 
-.g-hero__meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  font-size: 13px;
-  font-weight: 600;
-}
-
-.g-pill {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  padding: 5px 12px;
-  border-radius: 999px;
-  background: var(--surface);
-  border: 1px solid var(--line);
-  color: var(--muted);
-}
-
 /*--------------------------------------------------------------
-# Toolbar: search + category filters
+# Toolbar: category filters
 --------------------------------------------------------------*/
 .g-toolbar {
   position: sticky;
@@ -243,39 +240,10 @@ img {
   border-bottom: 1px solid var(--line);
 }
 
-.g-toolbar__inner {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 12px;
-}
-
-.g-search {
-  flex: 1 1 240px;
-  min-width: 0;
-  padding: 10px 14px;
-  font: inherit;
-  font-size: 14px;
-  color: var(--ink);
-  background: var(--surface);
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  box-shadow: var(--shadow-sm);
-}
-
-.g-search::placeholder {
-  color: var(--muted);
-}
-
-.g-search:focus {
-  outline: none;
-  border-color: var(--accent);
-  box-shadow: 0 0 0 3px var(--accent-soft);
-}
-
 .g-filters {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   gap: 8px;
 }
 
@@ -301,12 +269,6 @@ img {
   color: #fff;
   background: var(--accent);
   border-color: var(--accent);
-}
-
-.g-count {
-  width: 100%;
-  font-size: 13px;
-  color: var(--muted);
 }
 
 /*--------------------------------------------------------------
